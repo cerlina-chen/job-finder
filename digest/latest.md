@@ -1,69 +1,73 @@
-# New since last run · 2026-10-17
+# New since last run · 2026-10-18
 
-79 new · 2899 relevant roles tracked in total
+57 new · 2919 relevant roles tracked in total
 
-## Software (44)
-- **SRC, Inc**: [Engineering Intern](https://jobs.jobvite.com/src-inc/job/on4GAfwr?nl=1&nl=1&fr=false)  
-  Syracuse, NY · Summer 2027 · posted 2026-09-16
-- **Healthpeak Properties**: [Forward Deployed Software Engineer Internship](http://www.healthpeak.com)  
-  New York City, NY
-- **OLEDWorks**: [OLED Software & Systems Engineering Co-op](https://www.oledworks.com)  
-  Rochester, NY
-- **Carrier**: [Software Engineering Intern - Summer](https://www.carrier.com)  
-  Syracuse, NY
-- **WEX**: [Backend Software Engineer Intern - Java & AI - Master’s](https://www.wexinc.com)  
-  Remote - USA
-- **AGCO**: [Embedded Software Engineer Intern](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors)  
-  Hesston, KS; Jackson, MN · Summer 2027 · posted 2026-10-16
-- **Impulse Space**: [Enterprise Software Engineer Intern](https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq)  
-  Redondo Beach, CA · Summer 2027 · posted 2026-10-16
-- **Booz Allen**: [Software Engineer Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802)  
-  Fayetteville, NC · posted 2026-10-16
-- **Veeam Software**: [Data & Analytics Engineering Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101)  
-  Alpharetta, GA · Summer 2027 · posted 2026-10-16
-- **Energy Transfer Partners**: [Engineering Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003882)  
-  Houston, TX · posted 2026-10-16
-- **Ryan**: [Software Development Intern](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822)  
-  Plano, TX · Summer 2027 · posted 2026-10-16
-- **Northrop Grumman**: [Software Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080)  
-  Colorado Springs, CO · Summer 2027 · posted 2026-10-16
-- **Wellmark**: [Software Engineer Intern - Technology Health Plan](https://jobs.smartrecruiters.com/WellmarkInc/744000156043218)  
-  Des Moines, IA · Summer 2027 · posted 2026-10-16
-- **John Deere**: [Software Engineering Student Intern - Technology (CA)](https://johndeere.eightfold.ai/careers/job/137483908089)  
-  Ames, IA · posted 2026-10-16
-- **Ryan**: [Software Engineer Intern](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1)  
-  Plano, TX · Summer 2027 · posted 2026-10-16
-- +29 more in `data/new_today.csv`
+## Design & UX (1)
+- **Persona**: [Product Design Intern](https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application?utm_source=github-vansh-ouckah)  
+  San Francisco, CA · Summer 2027
 
-## Data (35)
-- **Microsoft**: [Research Intern - MSR AI Interaction and Learning](https://apply.careers.microsoft.com/careers/job/1970393557042156)  
-  Redmond, WA; NYC · posted 2026-10-16
-- **CenturyLink**: [Data Internship - Analytics & Decision Science](https://internaljobs.centurylink.com/job/Remote-Data,-Analytics-&-Decision-Science-Summer-2027-Internship-Pathway/1440961600/?ats=successfactors)  
-  Remote in USA · Summer 2027 · posted 2026-10-16
-- **DO & CO**: [Data Analyst Intern](https://doco.com)  
-  Jamaica, NY
-- **Riverside Research Institute**: [AI/ML and Remote Sensing Intern](https://www.riversideresearch.org)  
-  Fairborn, OH
-- **Unity**: [Machine Learning Engineer-Internship](https://unity.com)  
-  Remote - Mountain View, CA +1
-- **QuEra Computing**: [QPU Build Co-op - Optics & Data Analysis](https://job-boards.greenhouse.io/queracomputinginc/jobs/5455950008)  
-  Boston, MA · posted 2026-10-17
-- **Boston Scientific**: [AI/Data Science Intern](https://bostonscientific.eightfold.ai/careers/job/563602813519129)  
-  Maple Grove, MN · Summer 2027 · posted 2026-10-16
-- **American Family Insurance Group**: [Data Engineering / Data Science Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674)  
-  Madison, WI · Summer 2027 · posted 2026-10-16
-- **John Deere**: [Process Automation Student Intern - Process Automation - Data and Analytics](https://johndeere.eightfold.ai/careers/job/137483907415)  
-  Greeneville, TN · posted 2026-10-16
-- **MetLife**: [Data & Analytics Intern](https://metlife.avature.net/en_US/ml/JobDetail/20702)  
-  Cary, NC · Summer 2027 · posted 2026-09-30
-- **Johns Hopkins Applied Physics Laboratory**: [Artificial Intelligence and Machine Learning Intern - Research Assistant](https://careers.jhuapl.edu/jobs/60084?icims=1)  
-  Laurel, MD · Summer 2027 · posted 2026-09-25
-- **Johns Hopkins Applied Physics Laboratory**: [AI & Data Science Intern - Analytic Capabilities](https://careers.jhuapl.edu/jobs/60008?icims=1)  
-  Laurel, MD · Summer 2027 · posted 2026-09-10
-- **Arch Capital Group**: [Data and Analytics Intern](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845)  
-  Farmington, CT · Summer 2027 · posted 2026-08-31
-- **TikTok**: [Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM / Agent - 2027 Summer](https://www.tiktok.com)  
-  Seattle, WA
-- **TikTok**: [Machine Learning Engineer Intern - E-Commerce Recommendation Live- 2027 Summer](https://www.tiktok.com)  
-  Seattle, WA
-- +20 more in `data/new_today.csv`
+## Software (25)
+- **Moog**: [Product Engineering Intern](https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Product-Engineering_R-26-20429?utm_source=github-vansh-ouckah)  
+  Buffalo, NY · Summer 2027
+- **HCSC**: [Finance Data & Analytics Developer Intern](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Data---Analytics-Developer-Intern_R0059478)  
+  Chicago, IL; Richardson, TX · posted 2026-10-17
+- **HCSC**: [Finance Application Developer Intern](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477)  
+  Chicago, IL; Richardson, TX · posted 2026-10-17
+- **Booz Allen Hamilton**: [Software Engineer Intern 🇺🇸](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802?utm_source=github-vansh-ouckah)  
+  Fayetteville, NC · Summer 2027
+- **Airbus**: [Tool Technology and Development Engineering Intern](https://ag.wd3.myworkdayjobs.com/en-US/airbus/job/Mobile-Area-AL/Short-term-Internship---Tool-Technology-and-Development-Engineering_JR10451236?utm_source=github-vansh-ouckah)  
+  Mobile Area, AL · Summer 2027
+- **Veolia**: [Operations Engineering Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000155824489?utm_source=github-vansh-ouckah)  
+  Vandalia, OH · Summer 2027
+- **The Federal Reserve System**: [Mac/Mobile Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Mac-Mobile_R-0000033714?utm_source=github-vansh-ouckah)  
+  Dallas, TX · Summer 2027
+- **RTX**: [Software Engineering Intern 🇺🇸](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317?utm_source=github-vansh-ouckah)  
+  Sterling, VA · Summer 2027
+- **Draper**: [Operations Engineering Intern 🇺🇸](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Operations-Engineering-Intern--Summer-2027-_JR003037?utm_source=github-vansh-ouckah)  
+  Cambridge, MA · Summer 2027
+- **General Dynamics Mission Systems**: [Software Engineer Intern, Crypto & Cross Domain Solutions 🇺🇸](https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job?utm_source=github-vansh-ouckah)  
+  Scottsdale, AZ · Summer 2027
+- **General Dynamics Mission Systems**: [Software Engineer Intern, Crypto and Cross Domain Solutions 🇺🇸](https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job?utm_source=github-vansh-ouckah)  
+  Taunton, MA · Summer 2027
+- **Atoms**: [Software Engineering Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8888411002?utm_source=github-vansh-ouckah)  
+  Seattle, WA · Summer 2027
+- **SOTI**: [Software Developer Intern, SOTI MobiControl Apple HQ](https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2?utm_source=github-vansh-ouckah)  
+  Mississauga, ON · Summer 2027
+- **ServiceNow**: [Associate Software Engineer Intern, AI Engineering](https://jobs.smartrecruiters.com/ServiceNow/744000155345889?utm_source=github-vansh-ouckah)  
+  Santa Clara, CA · Summer 2027
+- **General Dynamics Mission Systems**: [Cyber Engineering Intern 🇺🇸](https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job?utm_source=github-vansh-ouckah)  
+  Middletown, RI · Summer 2027
+- +10 more in `data/new_today.csv`
+
+## Data (31)
+- **onsemi**: [Manufacturing AI Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642?utm_source=github-vansh-ouckah)  
+  Hopewell Junction, NY · Summer 2027
+- **JPMorganChase**: [AI Research Associate Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800354?utm_source=github-vansh-ouckah)  
+  New York, NY · Summer 2027
+- **WTW**: [Risk & Analytics Core Intern 🛂](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606637?utm_source=github-vansh-ouckah)  
+  New York, NY · Summer 2027
+- **WTW**: [Risk & Analytics Enterprise Risk Consulting Intern 🛂](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606636?utm_source=github-vansh-ouckah)  
+  New York, NY · Summer 2027
+- **CIBC**: [Analyst Intern, Equity Solutions Group](https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/New-York-NY/XMLNAME-2027-Summer-Analyst--Equity-Solutions-Group_2620985?utm_source=github-vansh-ouckah)  
+  New York, NY · Summer 2027
+- **Susquehanna International Group**: [Business Analytics AI Co-op](https://careers-sig.icims.com/jobs/11675/business-analytics-ai-co-op-with-drexel-university/job?utm_source=github-vansh-ouckah)  
+  Remote (US)
+- **Susquehanna International Group**: [Technical Business Analyst Co-op](https://careers-sig.icims.com/jobs/11665/technical-business-analyst-co-op-with-drexel-university/job?utm_source=github-vansh-ouckah)  
+  Remote (US)
+- **Point72**: [Data Research Fellowship](https://boards.greenhouse.io/point72/jobs/8883820002?gh_jid=8883820002&utm_source=github-vansh-ouckah)  
+  New York, NY
+- **Axos Bank**: [Data Analyst 1 Intern](https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/BSA-Analyst-I_JR5329)  
+  Omaha, NE · posted 2026-09-03
+- **Gilead Sciences**: [Research Intern, Data Sciences - AI](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524?utm_source=github-vansh-ouckah)  
+  Foster City, CA · Summer 2027
+- **Gilead Sciences**: [Research Intern, Strategy, Innovation & Portfolio - AI](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502?utm_source=github-vansh-ouckah)  
+  Foster City, CA · Summer 2027
+- **General Motors**: [AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406?utm_source=github-vansh-ouckah)  
+  Sunnyvale, CA · Summer 2027
+- **Danaher Corporation**: [CCM Data Governance Intern](https://danaher.wd1.myworkdayjobs.com/en-US/danaherjobs/job/Logan-Utah-United-States/CCM-Data-Governance---Intern-Summer-2027_R1318977?utm_source=github-vansh-ouckah)  
+  Logan, UT · Summer 2027
+- **Cigna**: [Healthcare Analytics Intern](https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Morris-Plains-NJ/Healthcare-Analytics-Summer-Intern---Morris-Plains--NJ---Start-Date--May-24--2027_26009483?utm_source=github-vansh-ouckah)  
+  Morris Plains, NJ · Summer 2027
+- **Booz Allen Hamilton**: [Digital Transformation Analyst Intern 🇺🇸](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251716?utm_source=github-vansh-ouckah)  
+  Arlington, VA · Summer 2027
+- +16 more in `data/new_today.csv`
