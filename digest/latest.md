@@ -1,69 +1,73 @@
-# New since last run · 2026-10-20
+# New since last run · 2026-10-21
 
-75 new · 2981 relevant roles tracked in total
+130 new · 2942 relevant roles tracked in total
 
-## Software (40)
-- **Palantir**: [Software Engineer Intern - Query Engines](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13/apply)  
-  NYC · posted 2026-10-20
-- **Amplify**: [Software Engineer Intern](https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true)  
-  Remote in USA · Summer 2027 · posted 2026-10-19
-- **Patreon**: [Software Engineer Intern](https://jobs.ashbyhq.com/patreon/71f644bc-0873-4d62-a599-bd64405d6587/application?embed=true)  
-  SF; NYC · Summer 2027 · posted 2026-10-19
-- **Amplify**: [Summer 2027: Software Engineering Intern](https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa)  
-  Remote - United States; Remote · Summer 2027 · posted 2026-10-19
-- **Patreon**: [Software Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c)  
-  New York · Summer 2027 · posted 2026-10-19
-- **Braze**: [Intern, Software Engineering](https://job-boards.greenhouse.io/braze/jobs/8301086)  
-  New York City · posted 2026-10-19
-- **Palantir**: [Software Engineer, Internship - Query Engines](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13)  
-  New York, NY · posted 2026-10-19
-- **Zebra Technologies**: [2027 Summer Internship (US) - Software Engineer](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625)  
-  Holtsville, New York · Summer 2027 · posted 2026-10-19
-- **Boston Scientific**: [R&D Software Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813563514)  
-  Arden Hills, MN · Summer 2027 · posted 2026-10-20
-- **Verizon Communications**: [Call Routing Optimization Engineering Intern](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394)  
-  Basking Ridge, Bernards, NJ · Summer 2027 · posted 2026-10-20
-- **Texas Instruments**: [Software Engineer Intern - Compiler](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103)  
-  Sugar Land, TX; United States · posted 2026-10-20
-- **Space Dynamics Laboratory**: [AI-Enabled Requirements Engineering Intern](https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern)  
-  North Logan, UT · Summer 2027 · posted 2026-10-20
-- **Allstate**: [Software Engineer Intern](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266)  
-  North Carolina · Summer 2027 · posted 2026-10-20
-- **Keysight Technologies**: [Optical Design Software & Automation Engineer Intern](https://jobs.keysight.com/jobs/54614?icims=1)  
-  Pasadena, CA; Santa Clara, CA · posted 2026-10-19
-- **Keysight Technologies**: [Photonics Design Software & Automation Engineer Intern](https://jobs.keysight.com/jobs/54619?icims=1)  
-  Pasadena, CA; Santa Clara, CA · posted 2026-10-19
-- +25 more in `data/new_today.csv`
+## Design & UX (1)
+- **Rakuten International**: [Intern - Software Engineer, AI User Experience](https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171)  
+  San Mateo, California · posted 2026-10-20
 
-## Data (35)
-- **JP Morgan Chase**: [Machine Learning Summer Associate Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790)  
-  Palo Alto, CA; Seattle, WA; NYC · Summer 2027 · posted 2026-10-20
-- **The New York Times**: [AI Initiatives Fellow](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4740369005)  
-  NYC · Summer 2027 · posted 2026-10-20
-- **Constellation Brands**: [AI Enablement Intern](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526)  
-  Rochester, NY · posted 2026-10-20
-- **Amplify**: [AI Scientist Intern](https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true)  
-  Remote in USA · Summer 2027 · posted 2026-10-19
-- **Amplify**: [Data Analytics Intern](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application?embed=true)  
-  Remote in USA · Summer 2027 · posted 2026-10-19
-- **Zebra Technologies**: [Business Analytics Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Business-Analytics_JR103642)  
-  Holtsville, NY · Summer 2027 · posted 2026-10-19
-- **Scale AI**: [Machine Learning Research Intern](https://job-boards.greenhouse.io/scaleai/jobs/4735665005)  
-  SF; NYC · Summer 2027 · posted 2026-10-19
-- **Amplify**: [Summer 2027: AI Scientist Intern](https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8)  
-  Remote - United States; Remote · Summer 2027 · posted 2026-10-19
-- **Scale AI**: [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005)  
-  New York, NY; San Francisco, CA · Summer 2027 · posted 2026-10-19
-- **Paccar**: [Dealer Development Marketing Data Analytics Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Dealer-Development-Marketing-Data-Analytics-Intern-WA-98033/1449209833/?ats=successfactors)  
-  Kirkland, WA · Summer 2027 · posted 2026-10-20
-- **Verizon Communications**: [Data Science Intern](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419)  
-  Basking Ridge, Bernards, NJ · Summer 2027 · posted 2026-10-20
-- **Vertex Pharmaceuticals**: [Commercial Analytics Co-op - Commercial Analytics](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Spring-Co-Op-2027--Commercial-Analytics_REQ-31112-1)  
-  Boston, MA · Winter 2027, Spring 2027, Summer 2027 · posted 2026-10-20
-- **Cigna Group**: [Business Analytics Intern](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Business-Analytics-Intern_26012472)  
-  Bloomfield, CT · Summer 2027 · posted 2026-10-20
-- **Verizon Communications**: [Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417)  
-  Basking Ridge, New Jersey · Summer 2027 · posted 2026-10-20
-- **Verizon Communications**: [Verizon Consumer Group: Data Science Summer 2027 Internship](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419)  
-  Basking Ridge, New Jersey · Summer 2027 · posted 2026-10-20
-- +20 more in `data/new_today.csv`
+## Software (70)
+- **Zebra Technologies**: [Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625?utm_source=github-vansh-ouckah)  
+  Holtsville, NY · Summer 2027
+- **LinkedIn**: [Software Engineer Intern](https://jobs.smartrecruiters.com/LinkedIn3/744000156616169)  
+  Mountain View, CA · Summer 2027 · posted 2026-10-21
+- **Uber**: [Software Engineer Intern](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922)  
+  Seattle, WA; SF; Sunnyvale, CA · posted 2026-10-21
+- **Rhoda AI**: [Software Engineer Intern - Inference](https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4/application?embed=true)  
+  Mountain View, CA · posted 2026-10-21
+- **Expedia Group**: [Software Developer 1 Intern](https://expedia.wd108.myworkdayjobs.com/private/job/USA---Missouri---Springfield/Software-Developer-I_R-110635)  
+  Springfield, MO · posted 2026-10-21
+- **Smith+Nephew**: [Intern Agentic AI Software Engineering](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953)  
+  Andover, MA · Summer 2027 · posted 2026-10-21
+- **Smith+Nephew**: [Intern Embedded Software Engineering](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952)  
+  Andover, MA · Summer 2027 · posted 2026-10-21
+- **Northrop Grumman**: [2027 Software Engineering Intern - Roy UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053)  
+  United States-Utah-Roy · Summer 2027 · posted 2026-10-21
+- **Smith+Nephew**: [Intern Computer Vision Software Engineering](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964)  
+  Andover, MA · Summer 2027 · posted 2026-10-21
+- **The Aerospace Corporation**: [2027 Embedded Software Engineering Undergrad Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949)  
+  El Segundo, CA · Summer 2027 · posted 2026-10-21
+- **The Aerospace Corporation**: [2027 Embedded Software Engineering Grad Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950)  
+  El Segundo, CA · Summer 2027 · posted 2026-10-21
+- **Ryan**: [Application Engineering Intern](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-1)  
+  Plano, TX · Summer 2027 · posted 2026-10-20
+- **Skydio**: [Mobile Software Engineer Intern](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true)  
+  San Mateo, CA · Summer 2027 · posted 2026-10-20
+- **Metamorphic**: [Engineering Intern](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a/application?embed=true)  
+  Palo Alto, CA · Summer 2027 · posted 2026-10-20
+- **Humble Robotics**: [Embedded Software Engineer Intern](https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3/apply)  
+  SF · posted 2026-10-20
+- +55 more in `data/new_today.csv`
+
+## Data (59)
+- **Community Care Plan**: [Population Health Data Analyst Intern](https://www.ccpcares.org)  
+  Remote - Florida, NY
+- **DriveWealth**: [AI Consulting Associate Program Product Owner Intern](https://boards.greenhouse.io/drivewealth/jobs/8038087003)  
+  Chicago, IL; NYC · Summer 2027 · posted 2026-10-20
+- **DriveWealth**: [AI Consulting Associate Program – AI Engineer Intern](https://boards.greenhouse.io/drivewealth/jobs/8039350003)  
+  Chicago, IL; NYC · Summer 2027 · posted 2026-10-20
+- **Sony**: [Research Engineer Intern - Ethical Creative and Protective AI Lab](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784)  
+  Connecticut; Florida; Virginia; NYC; Massachusetts; New Jers · posted 2026-10-20
+- **Constellation Brands**: [Intern, AI Enablement](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526)  
+  Rochester, New York · posted 2026-10-20
+- **JPMorganChase**: [Machine Learning Intern, NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790?utm_source=github-vansh-ouckah)  
+  New York, NY · Summer 2027
+- **Microsoft**: [Research Intern - Machine Learning at MSR NYC](https://www.microsoft.com)  
+  New York City, NY +1
+- **Amplify**: [Summer 2027: Data Analytics Intern](https://amplify.com)  
+  Remote - USA · Summer 2027
+- **MakiPeople**: [AI Implementation Intern](https://makipeople.com/)  
+  New York City, NY
+- **NBA**: [Undergraduate - Data & Analytics Intern](https://www.nba.com)  
+  New York City, NY
+- **Viking Global Investors**: [Data Science Intern - Summer 2027](https://vikingglobal.com)  
+  New York City, NY · Summer 2027
+- **Shield AI**: [Data Science Intern](https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797/apply)  
+  San Diego, CA · Summer 2027 · posted 2026-10-21
+- **Uline**: [Operations Analyst Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Operations-Analyst-Internship---Summer-2027_R268435)  
+  Pleasant Prairie, WI · Summer 2027 · posted 2026-10-21
+- **Uline**: [Executive Operations Analyst Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Analyst-Internship---Summer-2027_R268434)  
+  Pleasant Prairie, WI · Summer 2027 · posted 2026-10-21
+- **DP World**: [Application Analyst Intern](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400)  
+  Itasca, IL · Summer 2027 · posted 2026-10-21
+- +44 more in `data/new_today.csv`
