@@ -1,69 +1,69 @@
-# New since last run · 2026-10-26
+# New since last run · 2026-10-27
 
-190 new · 3060 relevant roles tracked in total
+120 new · 3138 relevant roles tracked in total
 
-## Software (130)
-- **Tessera Labs**: [Full Stack Software Engineer Intern](https://go.vansh.nyc/CH?s=z)  
-  4 locations  San Jose, CA Remote United States New York, NY
-- **Cisive**: [Software Developer Intern](https://go.vansh.nyc/SB?s=y)  
-  Remote United States · Summer 2027
-- **Two Sigma**: [Software Engineering Intern](https://go.vansh.nyc/RS?s=y)  
-  New York, NY · Summer 2027
-- **Qualcomm**: [Machine Learning & Artificial Intelligence Engineering Intern](https://go.vansh.nyc/Rr?s=y)  
-  7 locations  San Diego, CA Austin, TX Boxborough, MA United  · Summer 2027
-- **Qualcomm**: [Software Engineering Intern](https://go.vansh.nyc/Rs?s=y)  
-  8 locations  San Diego, CA Austin, TX Boxborough, MA United  · Summer 2027
-- **Disney**: [Product & Technology Software Engineering Intern](https://go.vansh.nyc/R3?s=y)  
-  Glendale, CA San Francisco, CA New York, NY · Summer 2027
-- **PDT Partners**: [Systems Engineering Intern](https://go.vansh.nyc/QK?s=y)  
-  New York, NY · Summer 2027
-- **Datadog**: [Software Engineer Intern](https://go.vansh.nyc/Mm?s=y)  
-  Boston, MA New York, NY · Summer 2027
-- **LAXIR**: [Junior Full-Stack Engineer Intern](https://go.vansh.nyc/Qx?s=y)  
-  Remote United States · Summer 2027
-- **BlinqLABS**: [Java Web Development Intern](https://go.vansh.nyc/Qw?s=y)  
-  Remote United States · Summer 2027
-- **RTX**: [Software Platform Engineer Co-op 🇺🇸](https://go.vansh.nyc/CR?s=z)  
-  Aurora, CO Remote United States
-- **Manhattan Associates**: [A.I. Developer Co-op](https://go.vansh.nyc/CZ?s=z)  
-  Remote United States
-- **CACI**: [Software Test Engineer Intern](https://go.vansh.nyc/CX?s=z)  
-  Remote United States
-- **Gemini**: [Software Engineer Intern](https://go.vansh.nyc/IO?s=z)  
-  New York, NY
-- **1Password**: [Developer Intern - Developer Interfaces - Winter 2027](https://1password.com/)  
-  Remote - USA +1 · Winter 2027
-- +115 more in `data/new_today.csv`
+## Software (65)
+- **Visa**: [Sophomore Program Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W)  
+  Ashburn, VA · posted 2026-10-27
+- **Visa**: [2027 Sophomore Internship Program - Software Engineer Intern, Ashburn](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1)  
+  US - Ashburn, VA · Summer 2027 · posted 2026-10-27
+- **Visa**: [2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1)  
+  US - Denver, CO · Summer 2027 · posted 2026-10-27
+- **Visa**: [2027 Sophomore Internship Program - Software Engineer Intern, Austin, TX - 2027](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1)  
+  US - Austin, TX · Summer 2027 · posted 2026-10-27
+- **Visa**: [2027 Sophomore Internship Program - Software Engineer Intern, Bellevue](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-2)  
+  US - Bellevue, WA · Summer 2027 · posted 2026-10-27
+- **Visa**: [2027 Sophomore Internship Program - Software Engineer Intern, Foster City](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1)  
+  US - Foster City, CA · Summer 2027 · posted 2026-10-27
+- **Highmark Health**: [Provider Delivery Software Engineer Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026)  
+  Remote in USA · Summer 2027 · posted 2026-10-26
+- **Mayo Clinic**: [Graduate Engineer Intern - Software Development](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190)  
+  Rochester, MN · Summer 2027, Fall 2027 · posted 2026-10-27
+- **Visa**: [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W)  
+  Denver, CO · Summer 2027 · posted 2026-10-27
+- **RTX**: [Secure Software Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942)  
+  Woburn, MA · Summer 2027 · posted 2026-10-27
+- **Mayo Clinic**: [Graduate Engineering Intern - Software Development](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190)  
+  Rochester, MN, United States · posted 2026-10-27
+- **Micron Technology**: [Intern - Product Yield Software Engineer](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864)  
+  Boise, ID - Main Site · posted 2026-10-27
+- **Visa**: [Software Engineer, Intern - 2027 Ashburn, VA](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1)  
+  US - Ashburn, VA · Summer 2027 · posted 2026-10-27
+- **Visa**: [Software Engineer, Intern - Foster City 2027](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W-1)  
+  US - Foster City, CA · Summer 2027 · posted 2026-10-27
+- **Visa**: [Software Engineer, Intern - 2027 Austin, TX](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1)  
+  US - Austin, TX · Summer 2027 · posted 2026-10-27
+- +50 more in `data/new_today.csv`
 
-## Data (60)
-- **ConnectPrep**: [Data Analyst Intern](https://apply.workable.com/connectprep/j/1AF4F8C65F/apply)  
-  Remote in USA · posted 2026-10-25
-- **Hook Music**: [Data Intern](https://go.vansh.nyc/BV?s=y)  
-  New York, NY · Summer 2027
-- **Celestica**: [AI Engineer Intern](https://go.vansh.nyc/QX?s=y)  
-  Remote United States · Summer 2027
-- **OpenSesame**: [Security Analyst Intern](https://go.vansh.nyc/CY?s=y)  
-  Remote United States · Summer 2027
-- **TPG**: [Research Assistant Intern, Data Analytics and Reporting](https://go.vansh.nyc/RV?s=z)  
-  Remote United States
-- **Regeneron Pharmaceuticals**: [Data Science & Computational Biology Co-op, Research](https://go.vansh.nyc/H4?s=z)  
-  Tarrytown, NY
-- **AMD**: [Machine Learning Co-op](https://go.vansh.nyc/Oi?s=z)  
-  6 locations  Rochester, NY Austin, TX Longmont, CO Fishkill,
-- **CVS Health**: [Innovation & Technology Internship - Data Engineering - Summer 2027 - Undergraduate](https://www.cvshealth.com/)  
-  New York City, NY · Summer 2027
-- **CVS Health**: [Innovation & Technology Internship - Data Engineering - Summer 2027 - Graduate](https://www.cvshealth.com/)  
-  New York City, NY · Summer 2027
-- **CVS Health**: [Innovation & Technology Intern - Data Engineering](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1)  
-  Irving, TX · Summer 2027 · posted 2026-10-26
-- **Wells Fargo**: [Technology Intern - Early Careers - Data Engineering](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066)  
-  Iselin, Woodbridge Township, NJ; Charlotte, NC; Irving, TX · Summer 2027 · posted 2026-10-26
-- **Pattern**: [Revenue Operations Data Analyst Intern](https://jobs.lever.co/pattern/84c10630-d414-4ad6-a195-05b0691fa97a/apply)  
-  Lehi, UT · posted 2026-10-26
-- **Netsmart**: [Security Analyst Intern](https://go.vansh.nyc/SN?s=y)  
-  Overland Park, KS · Summer 2027
-- **Delta Dental Of Missouri**: [Data Science Intern](https://go.vansh.nyc/BT?s=y)  
-  Fenton, MO · Summer 2027
-- **DocuSign**: [Agentic AI Engineer Intern 🛂](https://go.vansh.nyc/BS?s=y)  
-  San Francisco, CA · Summer 2027
-- +45 more in `data/new_today.csv`
+## Data (55)
+- **Normal Computing**: [AI Research Resident - Algorithms Codesign](https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true)  
+  NYC · posted 2026-10-27
+- **EQT Corporation**: [AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008)  
+  Remote in USA · posted 2026-10-27
+- **Tradeweb**: [Human Resources Data & Analytics Intern](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301987)  
+  NYC · Summer 2027 · posted 2026-10-26
+- **Schonfeld**: [Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692)  
+  NYC · Summer 2027 · posted 2026-09-04
+- **Schonfeld**: [2027 Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692)  
+  New York, New York, United States · Summer 2027 · posted 2026-09-04
+- **Visa**: [Data Science Intern - Data and AI Team](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1)  
+  Foster City, CA · Summer 2027 · posted 2026-10-27
+- **Visa**: [Product Management Intern - Data and AI Team](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W)  
+  Foster City, CA · Summer 2027 · posted 2026-10-27
+- **Nissan**: [AI Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Irving-Texas---United-States-of-America/AI-Intern---Summer-2027---Dallas--TX-or-Franklin--TN_R00214219)  
+  Dallas, TX; Franklin, TN · Summer 2027 · posted 2026-10-27
+- **The Federal Reserve System**: [REIN Data Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089)  
+  Atlanta, GA · Summer 2027 · posted 2026-10-27
+- **Dominion Energy**: [Power Systems Time-Series Analytics Intern](https://careers.dominionenergy.com/job/GLEN-ALLEN-Intern-Power-Systems-Time-Series-Analytics-VA-23060/1444045200/?ats=successfactors)  
+  Glen Allen, VA · posted 2026-10-27
+- **Visa**: [Business Strategy Intern, Data and AI Team - Summer 2027](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2)  
+  US - Foster City, CA · Summer 2027 · posted 2026-10-27
+- **Visa**: [Data Science Intern, Data and AI Team – Summer 2027](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1)  
+  US - Foster City, CA · Summer 2027 · posted 2026-10-27
+- **JM Family**: [Data Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120)  
+  Florida - Deerfield Beach · Summer 2027 · posted 2026-10-27
+- **Lila Sciences**: [Co-Op, AI Nucleic Acid Design](https://job-boards.greenhouse.io/lilasciences/jobs/4465061009)  
+  San Francisco, CA USA · posted 2026-10-27
+- **Micron Technology**: [Intern -  AI Engineer Platform](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934)  
+  Boise, ID - Main Site · posted 2026-10-27
+- +40 more in `data/new_today.csv`
