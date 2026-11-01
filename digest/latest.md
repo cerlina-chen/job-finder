@@ -1,69 +1,69 @@
-# New since last run · 2026-10-31
+# New since last run · 2026-11-01
 
-98 new · 3289 relevant roles tracked in total
+110 new · 3371 relevant roles tracked in total
 
-## Software (37)
-- **Amazon**: [Software Engineer Intern - Machine Learning/Automated Reasoning](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027)  
-  Boston, MA; Seattle, WA; Austin, TX; Irvine, CA; Arlington C · Summer 2027, Fall 2027 · posted 2026-10-30
-- **The New York Times**: [Backend Engineer Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005)  
-  NYC · posted 2026-10-30
-- **The New York Times**: [Backend Engineering Intern, Wirecutter](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005)  
-  New York, NY · posted 2026-10-30
-- **Intercontinental Exchange**: [Software Engineer Intern](https://ice.jibeapply.com/jobs/14105?icims=1)  
-  NYC · Summer 2027 · posted 2026-10-23
-- **Dow Jones**: [Software Engineering Intern](https://go.vansh.nyc/10X?s=y)  
+## Software (68)
+- **Patreon**: [Software Engineering Intern](https://go.vansh.nyc/13j?s=y)  
   New York, NY · Summer 2027
-- **Beli**: [Software Engineer Intern](https://go.vansh.nyc/11T?s=y)  
+- **New York ISO**: [IT Software Development Intern](https://go.vansh.nyc/13f?s=y)  
+  Rensselaer, NY · Summer 2027
+- **Braze**: [Software Engineering Intern](https://go.vansh.nyc/12D?s=y)  
   New York, NY · Summer 2027
-- **Nokia**: [Software Engineer Co-op](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339)  
-  United States · posted 2026-10-30
-- **Synopsys**: [Technical Engineering Intern](https://synopsys.avature.net/careers/JobDetail/19536)  
-  Sunnyvale, CA · Summer 2027 · posted 2026-10-30
-- **Amazon**: [Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027](https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027)  
-  Seattle, Washington, USA · Summer 2027 · posted 2026-10-30
-- **Hewlett Packard Enterprise**: [Software Engineering Intern](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146)  
-  Sunnyvale, California, United States of America · posted 2026-10-30
-- **NVIDIA**: [AI Systems Software Engineering Intern – Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170)  
-  US, TX, Austin · Summer 2027 · posted 2026-10-30
-- **Protagonist**: [Software Engineer Intern](https://job-boards.greenhouse.io/protagonist/jobs/6236620004)  
-  Washington, DC · posted 2026-10-27
-- **Intercontinental Exchange**: [Software Engineering Intern](https://ice.jibeapply.com/jobs/14075?icims=1)  
-  Jacksonville, FL · Summer 2027 · posted 2026-10-23
-- **Intercontinental Exchange**: [Financial Engineering Intern](https://ice.jibeapply.com/jobs/14059?icims=1)  
-  Atlanta, GA · Summer 2027 · posted 2026-10-23
-- **Intercontinental Exchange**: [Software Engineer Intern - Java](https://ice.jibeapply.com/jobs/14078?icims=1)  
-  Jacksonville, FL · Summer 2027 · posted 2026-10-23
-- +22 more in `data/new_today.csv`
-
-## Data (61)
-- **Lila Sciences**: [AI-Driven Equation Discovery Co-op](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009)  
-  Cambridge, MA; SF · posted 2026-10-30
-- **Lila Sciences**: [Co-Op, AI-Driven Equation Discovery](https://job-boards.greenhouse.io/lilasciences/jobs/4469152009)  
-  Cambridge, MA USA; San Francisco, CA USA · posted 2026-10-30
-- **Molina Healthcare**: [Customer Experience & Analytics Intern - Undergraduate](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169)  
-  Remote in USA · Summer 2027 · posted 2026-10-30
-- **Barclays**: [Client Data & Engineering Group Summer Intern - Chief Client Office](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731)  
-  NYC · Summer 2027 · posted 2026-10-30
-- **Stripe**: [Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=8328662)  
-  Seattle, WA; SF; NYC · Summer 2027 · posted 2026-10-30
-- **VSP Vision**: [AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072)  
-  Remote in USA · Summer 2027 · posted 2026-10-30
-- **VSP Vision**: [Internship, AI – Agentic & Machine Learning Development](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072)  
-  Remote US; Remote · Summer 2027 · posted 2026-10-30
-- **AXA**: [Underwriting Data & Analytics Intern](https://careers.axa.com/jobs/25498?icims=1)  
-  NYC · Summer 2027 · posted 2026-10-29
-- **Intercontinental Exchange**: [Data Science Intern](https://ice.jibeapply.com/jobs/14113?icims=1)  
-  NYC · Summer 2027 · posted 2026-10-23
-- **Intercontinental Exchange**: [Index Analyst Intern](https://ice.jibeapply.com/jobs/14100?icims=1)  
-  NYC · Summer 2027 · posted 2026-10-23
-- **TPG**: [Data Analytics Research Assistant Intern - Data Analytics and Reporting - Spring Research Assistant](https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003)  
-  Remote in USA · Winter 2027 · posted 2026-10-14
-- **Pretium**: [AI, Data & Innovation Intern](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002)  
-  NYC · Summer 2027 · posted 2026-10-06
-- **Pretium**: [2027 AI, Data & Innovation Summer Internship](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002)  
-  New York, New York · Summer 2027 · posted 2026-10-06
-- **VSP Vision**: [Agentic & Machine Learning Development Intern, AI](https://go.vansh.nyc/113?s=y)  
+- **Arista Networks**: [Software Engineer Intern, C/C++](https://go.vansh.nyc/12B?s=y)  
   Remote United States · Summer 2027
-- **Molina Healthcare**: [Data Analytics Internship (Remote) –(Undergraduate)](https://go.vansh.nyc/11J?s=y)  
-  United States · Summer 2027
-- +46 more in `data/new_today.csv`
+- **Hyphenate**: [Software Engineering Intern](https://go.vansh.nyc/17t?s=y)  
+  New York, NY · Summer 2027
+- **New York ISO**: [Software Engineering Co-op, IT](https://go.vansh.nyc/13J?s=z)  
+  Rensselaer, NY
+- **TRG**: [Full Stack Application Developer Intern](https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US)  
+  Dallas, TX · posted 2026-11-01
+- **TikTok**: [Software Engineer Intern, TikTok AI Search & Visual Search Infra Team](https://go.vansh.nyc/183?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Software Engineer Intern, Ads Infrastructure](https://go.vansh.nyc/18m?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [AI Software Engineer Project Intern, Transaction Platform](https://go.vansh.nyc/18t?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Software Engineer Project Intern, Recommendation Infrastructure, Video Social](https://go.vansh.nyc/18F?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Software Engineer Project Intern, Content AI Infrastructure](https://go.vansh.nyc/18G?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Software Engineer Project Intern, Lead Ads](https://go.vansh.nyc/18H?s=y)  
+  San Jose, CA · Summer 2027
+- **Siemens Digital Industries Software**: [Strategic Student Program Digital Enterprise Software Applications Intern](https://go.vansh.nyc/18U?s=y)  
+  Charlotte, MI · Summer 2027
+- **ByteDance**: [Backend Development Engineer Intern, Infrastructure Platform Delivery](https://go.vansh.nyc/17L?s=y)  
+  San Jose, CA · Summer 2027
+- +53 more in `data/new_today.csv`
+
+## Data (42)
+- **Datacor**: [AI Engineer Intern](https://go.vansh.nyc/12N?s=y)  
+  Remote United States · Summer 2027
+- **Barclays**: [Chief Client Office - Client Data & Engineering Group Summer Internship Program 2027 New York City](https://home.barclays/)  
+  New York City, NY
+- **VSP Vision Care**: [Internship - AI - Agentic & Machine Learning Development](https://www.vsp.com)  
+  Remote - USA
+- **TikTok**: [AI Engineer Intern, TikTok-Client Arch 🛂](https://go.vansh.nyc/17P?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Data Science Intern, TikTok Integrity and Safety](https://go.vansh.nyc/17R?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Machine Learning MLOps Intern, Global SRE](https://go.vansh.nyc/17S?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch](https://go.vansh.nyc/17U?s=y)  
+  Seattle, WA · Summer 2027
+- **TikTok**: [ML Infra Engineer Intern, Ads Infra](https://go.vansh.nyc/17V?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Machine Learning Engineer Intern, Commerce Ads](https://go.vansh.nyc/17Z?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Data Engineering Project Intern, Ads Targeting](https://go.vansh.nyc/186?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Machine Learning Engineer Intern, TikTok-Data-Search-Local Service 🛂](https://go.vansh.nyc/189?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Data Engineer Intern, Data Platform TikTok BP](https://go.vansh.nyc/18a?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Data Scientist Project Intern, TikTok Integrity and Safety](https://go.vansh.nyc/18b?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking 🛂](https://go.vansh.nyc/18c?s=y)  
+  San Jose, CA · Summer 2027
+- **TikTok**: [Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live](https://go.vansh.nyc/18h?s=y)  
+  San Jose, CA · Summer 2027
+- +27 more in `data/new_today.csv`
