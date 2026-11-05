@@ -1,73 +1,69 @@
-# New since last run · 2026-11-04
+# New since last run · 2026-11-05
 
-131 new · 3514 relevant roles tracked in total
+106 new · 3603 relevant roles tracked in total
 
-## Design & UX (1)
-- **Dynamic Catholic**: [Front-End UX Intern 🛂](https://go.vansh.nyc/1eA?s=y)  
-  Erlanger, KY · Summer 2027
-
-## Software (69)
-- **Kudu Dynamics**: [Software Engineering & AI Intern 🇺🇸](https://go.vansh.nyc/1gL?s=y)  
-  4 locations  Remote United States Odenton, MD Shiloh, IL · Summer 2027
-- **Viam**: [Software Engineering Intern](https://go.vansh.nyc/1fY?s=y)  
+## Software (50)
+- **Palantir**: [Software Engineer, Internship - Sovereign AI Systems](https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312)  
+  New York, NY · posted 2026-11-05
+- **Leidos**: [Software Engineering & AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220)  
+  Remote in USA; Shiloh, IL; Odenton, MD · Summer 2027 · posted 2026-11-04
+- **Constellation Brands**: [AI and Automation Engineering Intern](https://cbrands.wd5.myworkdayjobs.com/en-US/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655)  
+  Rochester, NY · posted 2026-11-04
+- **CACI**: [Software Engineering Co-op/Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160)  
+  Rochester, NY, US · Summer 2027 · posted 2026-11-04
+- **Palantir Technologies**: [Software Engineer Intern, Sovereign AI Systems](https://go.vansh.nyc/1j0?s=y)  
   New York, NY · Summer 2027
-- **M3USA**: [AI Engineering Intern](https://go.vansh.nyc/1eD?s=y)  
+- **Arango**: [Software Engineer Intern, Cookbooks](https://go.vansh.nyc/1it?s=y)  
   Remote United States · Summer 2027
-- **Charta Health**: [Software Engineer Intern, FDE / Platform](https://go.vansh.nyc/1ex?s=y)  
-  San Francisco, CA New York, NY · Summer 2027
-- **Realm**: [Software Engineer Intern](https://go.vansh.nyc/1ew?s=y)  
-  Remote United States · Summer 2027
-- **Colonist**: [Product Developer Intern](https://go.vansh.nyc/1ek?s=y)  
-  Remote United States Canada · Summer 2027
-- **Motorola Solutions**: [Software Engineer Cybersecurity Services - 2027 Summer Internship](https://www.motorolasolutions.com)  
-  Remote - Virginia, USA +38
-- **Northrop Grumman**: [Software Embedded Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553)  
-  Sykesville, MD · Summer 2027 · posted 2026-11-04
-- **RTX**: [Control/Diagnostic Software Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840)  
-  Jupiter, FL · Summer 2027 · posted 2026-11-04
-- **Zebra Technologies**: [Software Engineer Intern - AI Features & Product Convergence](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636)  
-  Kennesaw, GA · Summer 2027 · posted 2026-11-04
-- **Northrop Grumman**: [2027 S/W Embedded Engineering Intern – Sykesville MD](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553)  
-  United States-Maryland-Sykesville · Summer 2027 · posted 2026-11-04
-- **Northrop Grumman**: [2027 Cybersecurity Software Engineering Intern - Roy UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177)  
-  United States-Utah-Clearfield · Summer 2027 · posted 2026-11-04
-- **BorgWarner**: [Software Engineering Intern (Year-Round)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1)  
-  Auburn Hills - Michigan - USA · posted 2026-11-04
-- **Nexthink**: [Software Engineer (Intern)](https://jobs.smartrecruiters.com/Nexthink/744000159632929)  
-  Madrid, MD, International (ES) (Hybrid) · posted 2026-11-04
-- **Northrop Grumman**: [2027 DevOps Software Engineering Intern - Roy UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178)  
-  United States-Utah-Roy · Summer 2027 · posted 2026-11-04
-- +54 more in `data/new_today.csv`
+- **Constellation Brands**: [AI & Automation Engineering Intern](https://go.vansh.nyc/1h2?s=y)  
+  Rochester, NY · Summer 2027
+- **PayPal**: [Software Engineer Intern](https://paypal.eightfold.ai/careers/job/274922982814)  
+  Austin, TX; San Jose, CA; Chicago, IL; Omaha, NE; Scottsdale · Summer 2027 · posted 2026-11-05
+- **PayPal**: [Mobile Engineer Intern](https://paypal.eightfold.ai/careers/job/274922982818)  
+  Austin, TX; San Jose, CA; Chicago, IL; Omaha, NE; Scottsdale · Summer 2027 · posted 2026-11-05
+- **IDeaS**: [Software Developer Intern](https://ideas-sas.icims.com/jobs/42665/job?mobile=true&needsRedirect=false)  
+  Bloomington, MN · posted 2026-11-05
+- **Framatome**: [AI and Software Innovation Intern](https://careers-framatome.icims.com/jobs/3385/job?mobile=true&needsRedirect=false)  
+  Lynchburg, VA · posted 2026-11-05
+- **Hearst**: [Software Engineer Intern](https://job-boards.greenhouse.io/hearst/jobs/4466334009)  
+  Carmel, IN · posted 2026-11-05
+- **Parsons**: [Embedded Developer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299)  
+  Columbia, MD · posted 2026-11-05
+- **JM Family**: [Software Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187)  
+  Deerfield Beach, FL · posted 2026-11-05
+- **Schweitzer Engineering Laboratories**: [Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2026-24655)  
+  Pullman, WA · posted 2026-11-04
+- +35 more in `data/new_today.csv`
 
-## Data (61)
-- **Centene**: [AI Business Strategy Intern (Undergraduate Summer 2027)](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1)  
-  Remote-MO; Remote · Summer 2027 · posted 2026-11-04
-- **Eulerity**: [Finance Data Analyst Intern](https://job-boards.greenhouse.io/eulerity/jobs/4726901006)  
-  NYC · posted 2026-11-03
-- **Vatic Investments**: [AI Research Intern](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954)  
-  NYC · Summer 2027 · posted 2026-11-03
-- **Jomboy Media**: [Business Intelligence Intern](https://job-boards.greenhouse.io/jomboymedia/jobs/4478036009)  
-  NYC · Summer 2027 · posted 2026-11-03
-- **Vatic Investments**: [AI Research Internship (Summer 2027)](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954)  
-  New York · Summer 2027 · posted 2025-09-04
-- **Highmark Health**: [Vulnerability Management Analyst Undergraduate Intern](https://go.vansh.nyc/1e9?s=y)  
-  Remote United States · Summer 2027
-- **Plot Technologies**: [Applied AI Co-op](https://go.vansh.nyc/1eP?s=z)  
-  New York, NY
-- **MegazoneCloud**: [Data Engineer Co-op](https://go.vansh.nyc/1eI?s=z)  
-  Rochester, NY
-- **Parsons**: [AI/ML Engineer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194)  
-  Centreville, VA; United States · Summer 2027 · posted 2026-11-04
-- **Procter & Gamble**: [Talent Analytics & Assessment Science Intern](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Intern--Talent-Analytics---Assessment-Science_R000162095)  
-  Cincinnati, OH · posted 2026-11-04
-- **Great American Insurance Company**: [Business Intelligence Intern - Power BI](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843)  
-  Cincinnati, OH · Summer 2027 · posted 2026-11-04
-- **Microchip Technology**: [Intern (Data Analyst)](https://microchiphr.wd5.myworkdayjobs.com/external/job/OR---Gresham/Intern--Data-Analyst-_R4441-26)  
-  OR - Gresham · posted 2026-11-04
-- **Smith+Nephew**: [Intern AI Engineer R&D](https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-AI-Engineer-R-D_R92966)  
-  Andover, MA · Summer 2027 · posted 2026-11-04
-- **Vizient**: [Summer Intern - Digital Collaboration & Data Insights](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R)  
-  Chicago, IL · Summer 2027 · posted 2026-11-03
-- **American Express**: [Cybersecurity AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065)  
-  Phoenix, AZ · Summer 2027 · posted 2026-11-03
-- +46 more in `data/new_today.csv`
+## Data (56)
+- **Constellation Brands**: [Intern, AI & Automation Engineering](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655)  
+  Rochester, New York · posted 2026-11-04
+- **Constellation Brands**: [AI Innovation Intern](https://go.vansh.nyc/1iF?s=y)  
+  Rochester, NY Chicago, IL · Summer 2027
+- **Chubb**: [Business Intelligence Intern](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335)  
+  Chicago, IL · Summer 2027 · posted 2026-11-05
+- **Toyota Research Institute**: [Automated Driving Advanced Development Intern - Machine Learning Research](https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply)  
+  Los Altos, CA · Summer 2027, Summer 2026 · posted 2026-11-05
+- **Toyota Research Institute**: [Human-Centered AI Research Intern - Human Language Models](https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e/apply)  
+  Los Altos, CA · Summer 2027 · posted 2026-11-05
+- **PayPal**: [Machine Learning Engineer Intern](https://paypal.eightfold.ai/careers/job/274922983149)  
+  San Jose, CA · Summer 2027 · posted 2026-11-05
+- **PayPal**: [Data Scientist Intern](https://paypal.eightfold.ai/careers/job/274922982821)  
+  San Jose, CA · Summer 2027 · posted 2026-11-05
+- **Meta**: [Research Scientist Intern - Monetization Ranking & AI Foundations](https://www.metacareers.com/jobs/1920724172670221)  
+  Menlo Park, CA; Sunnyvale, CA · posted 2026-11-05
+- **Meta**: [Research Scientist Intern - Generative AI & Computational Photography](https://www.metacareers.com/jobs/2862704290847533)  
+  Redmond, WA · posted 2026-11-05
+- **Meta**: [Research Scientist Intern - AI Maps](https://www.metacareers.com/jobs/2439439363131036)  
+  Seattle, WA · posted 2026-11-05
+- **Liberty Mutual**: [Analyst Development Intern](https://campus-libertymutual.icims.com/jobs/122764/job?mobile=true&needsRedirect=false)  
+  Boston, MA; Seattle, WA; Plano, TX · Summer 2027 · posted 2026-11-05
+- **Peraton**: [Social Media & Marketing Analyst Intern](https://careers-peraton.icims.com/jobs/171546/job?mobile=true&needsRedirect=false)  
+  San Diego, CA · Summer 2027 · posted 2026-11-05
+- **Markel Group**: [AI Automation Intern](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277)  
+  Woodland Hills, LA · posted 2026-11-05
+- **JM Family**: [Analytics Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200)  
+  Deerfield Beach, FL · Summer 2027 · posted 2026-11-05
+- **ASML**: [Machine Learning and Image-Based Metrics for EUV System Setup Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567)  
+  San Diego, CA · posted 2026-11-04
+- +41 more in `data/new_today.csv`
