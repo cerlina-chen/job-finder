@@ -1,75 +1,73 @@
-# New since last run · 2026-11-10
+# New since last run · 2026-11-11
 
-116 new · 3692 relevant roles tracked in total
+125 new · 3742 relevant roles tracked in total
 
-## Design & UX (2)
-- **Notion**: [Product Design Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9)  
-  New York, New York; Remote · Summer 2027 · posted 2026-11-10
-- **Pinterest**: [Product Design Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8350814)  
-  San Francisco, CA, US; Remote, US · posted 2026-11-09
+## Design & UX (1)
+- **Wellmark**: [Software Engineer Intern - User Experience Team](https://go.vansh.nyc/1tn?s=y)  
+  Des Moines, IA · Summer 2027
 
-## Software (50)
-- **DreamWorks Animation**: [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459)  
-  NYC · Summer 2027 · posted 2026-11-09
-- **DreamWorks Animation**: [Media Tech: Product & Engineering Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160652809)  
-  NYC · Summer 2027 · posted 2026-11-09
-- **Palantir**: [Software Engineer, Intern - Connectivity Platform and Product](https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743)  
-  New York, NY · posted 2026-11-04
-- **Palantir**: [Software Engineer, Internship - Data Connectors](https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a)  
-  New York, NY · posted 2026-11-04
-- **Headstarter**: [Software Engineering Intern, Agents & FE](https://go.vansh.nyc/1qO?s=y)  
+## Software (69)
+- **Addepar**: [Software Engineer Intern](https://job-boards.greenhouse.io/addepar1/jobs/8927531002)  
+  NYC · Summer 2027 · posted 2026-11-10
+- **Palantir**: [Software Engineer Intern - Data Connectors](https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a/apply)  
+  NYC · posted 2026-11-10
+- **Addepar**: [Software Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/addepar1/jobs/8927531002)  
+  New York, NY · Summer 2027 · posted 2026-11-10
+- **Addepar**: [AI Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/addepar1/jobs/8927543002)  
+  New York, NY · Summer 2027 · posted 2026-11-10
+- **Formulary Financial**: [Software Engineer Intern](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true)  
+  NYC · Summer 2027 · posted 2026-11-08
+- **Elire**: [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false)  
+  Remote in USA; Minneapolis, MN · Summer 2027 · posted 2026-09-15
+- **Hook Music**: [Machine Learning Engineering Intern, Recommendation Systems](https://go.vansh.nyc/1sf?s=y)  
+  Remote United States · Summer 2027
+- **Addepar**: [Software Engineering Intern](https://go.vansh.nyc/1rW?s=y)  
   New York, NY · Summer 2027
-- **Echo**: [Software Engineering Intern](https://go.vansh.nyc/1rF?s=y)  
-  Chicago, IL Remote United States · Summer 2027
-- **Palantir Technologies**: [Software Engineer Intern, Data Connectors](https://go.vansh.nyc/1rS?s=y)  
+- **Addepar**: [AI Engineering Intern](https://go.vansh.nyc/1rX?s=y)  
   New York, NY · Summer 2027
-- **Domino Data Lab**: [Software Engineer Intern, Campus Recruiting](https://go.vansh.nyc/1q4?s=y)  
+- **Addepar**: [Data Engineering Intern](https://go.vansh.nyc/1rY?s=y)  
   New York, NY · Summer 2027
-- **Zingage**: [Software Engineer Co-op](https://go.vansh.nyc/1rB?s=z)  
-  New York, NY
-- **Morgan Stanley**: [Software Engineer Co-op, Parametric](https://go.vansh.nyc/1q1?s=z)  
-  New York, NY Alpharetta, GA
-- **General Dynamics Mission Systems**: [Ontology and Semantic Engineering Intern](https://careers-gdms.icims.com/jobs/76088/job?mobile=true&needsRedirect=false)  
-  Chantilly, VA; Pittsfield, MA; Scottsdale, AZ · Summer 2027 · posted 2026-11-10
-- **REGENT**: [Mission Software Engineering Intern](https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true)  
-  North Kingstown, RI · Summer 2027 · posted 2026-11-10
-- **Renesas Electronics**: [Applications Engineering Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000160890129)  
-  San Jose, CA · Summer 2027 · posted 2026-11-10
-- **General Dynamics Mission Systems**: [Systems and Software Development Intern](https://careers-gdms.icims.com/jobs/76099/job?mobile=true&needsRedirect=false)  
-  San Antonio, TX; Scottsdale, AZ · posted 2026-11-10
-- **T-Mobile**: [Software Engineer Intern - T-Ads](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219)  
-  Philadelphia, PA · Summer 2027 · posted 2026-11-10
-- +35 more in `data/new_today.csv`
+- **Optimum (Altice USA)**: [Cloud Platform Engineering Intern](https://go.vansh.nyc/1sG?s=z)  
+  Bethpage, NY
+- **Optimum (Altice USA)**: [QA Automation Engineering Intern](https://go.vansh.nyc/1sH?s=z)  
+  Bethpage, NY
+- **Altice USA**: [Developer Intern, Financial & People Systems](https://go.vansh.nyc/1sl?s=z)  
+  Bethpage, NY
+- **Altice USA**: [Software Development Intern](https://go.vansh.nyc/1so?s=z)  
+  Bethpage, NY
+- **NBCUniversal**: [Software Engineering Internships - Summer 2027](http://www.nbcuniversal.com)  
+  New York City, NY · Summer 2027
+- +54 more in `data/new_today.csv`
 
-## Data (64)
-- **Universal Music Group**: [Data Engineer Co-Op](https://www.universalmusic.com)  
-  Remote - New York City, NY +1
-- **Zoetis Services**: [AI Capabilities Intern - AI Architecture, Enablement & Tools](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016)  
-  Remote in USA; Parsippany-Troy Hills, NJ; Kalamazoo, MI · posted 2026-11-09
-- **Tonic**: [Forward Deployed Engineer Co-op - Data De-Identification](https://jobs.ashbyhq.com/tonicai/e632d472-fbd2-475a-9878-536c0eacb5e9/application?embed=true)  
-  Remote in USA · posted 2026-11-09
-- **The New York Times**: [Data Analyst Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005)  
-  NYC · Summer 2027 · posted 2026-11-09
-- **The New York Times**: [Machine Learning Scientist Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005)  
-  NYC · Summer 2027 · posted 2026-11-09
-- **DreamWorks Animation**: [Media Tech: Data – AI & Machine Learning Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160650767)  
-  NYC · Summer 2027 · posted 2026-11-09
-- **DreamWorks Animation**: [Advertising & Partnerships: Data Science Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160689930)  
-  NYC · Summer 2027 · posted 2026-11-09
-- **The New York Times**: [ML Scientist Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005)  
-  New York, NY · Summer 2027 · posted 2026-11-09
-- **Mason**: [AI Engineer Intern](https://go.vansh.nyc/1rz?s=y)  
-  New York, NY · Summer 2027
-- **Grey State Apparel**: [Data Analyst Intern](https://go.vansh.nyc/1qN?s=y)  
-  New York, NY · Summer 2027
-- **DreamWorks Animation**: [Data Science Intern, Advertising & Partnerships](https://go.vansh.nyc/1pJ?s=y)  
-  New York, NY · Summer 2027
-- **General Dynamics Mission Systems**: [Ontology Data Analysis and Validation Intern](https://careers-gdms.icims.com/jobs/76095/job?mobile=true&needsRedirect=false)  
-  Chantilly, VA; Pittsfield, MA; Scottsdale, AZ · Summer 2027 · posted 2026-11-10
-- **Pika**: [Applied AI Engineer Intern - Creative Experiences](https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true)  
-  Palo Alto, CA · posted 2026-11-10
-- **onsemi**: [AI & Data Analytics Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010)  
-  Scottsdale, AZ · Summer 2027 · posted 2026-11-10
-- **Omnicom Group**: [Analytics Intern](https://interpublic.wd5.myworkdayjobs.com/omc/job/Washington-District-of-Columbia-United-States-of-America/Intern--Analytics_R16262)  
-  Washington, DC · posted 2026-11-10
-- +49 more in `data/new_today.csv`
+## Data (55)
+- **Bask Health**: [AI Product Intern](https://apply.workable.com/bask-health-1/j/9D7E69054E/apply)  
+  Remote in USA · posted 2026-11-11
+- **Riot Games**: [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716)  
+  Remote in USA · Summer 2027 · posted 2026-11-11
+- **Addepar**: [AI Engineer Intern](https://job-boards.greenhouse.io/addepar1/jobs/8927543002)  
+  NYC · Summer 2027 · posted 2026-11-10
+- **Addepar**: [Data Engineer Intern](https://job-boards.greenhouse.io/addepar1/jobs/8910327002)  
+  NYC · Summer 2027 · posted 2026-11-10
+- **DwyerOmega**: [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662)  
+  Remote in USA · Summer 2027 · posted 2026-11-10
+- **Judi Health**: [AI Solutions Intern](https://job-boards.greenhouse.io/judihealth/jobs/5477146008)  
+  New York, New York, United States · posted 2026-11-10
+- **CenturyLink**: [AI Product & Business Innovation Intern](https://internaljobs.centurylink.com/job/Remote-AI-Product-&-Business-Innovation-Summer-2027-Internship-Pathway/1440948000/?ats=successfactors)  
+  Remote in USA · Summer 2027 · posted 2026-10-16
+- **CenturyLink**: [AI & Automation Builders Internship](https://internaljobs.centurylink.com/job/Remote-AI-&-Automation-Builders-Summer-2027-Internship-Pathway/1440953200/?ats=successfactors)  
+  Remote in USA · Summer 2027 · posted 2026-10-16
+- **Elire**: [AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data](https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false)  
+  Remote in USA; Minneapolis, MN · Summer 2027 · posted 2026-09-15
+- **ICF**: [Data Analytics Intern](https://go.vansh.nyc/1uQ?s=y)  
+  Reston, VA Remote United States · Summer 2027
+- **CenturyLink**: [AI & Automation Builders Intern](https://go.vansh.nyc/1sD?s=y)  
+  Remote United States · Summer 2027
+- **Altice USA**: [Product Analytics Intern](https://go.vansh.nyc/1sm?s=z)  
+  Bethpage, NY
+- **Altice USA**: [Operations Data Analyst Intern](https://go.vansh.nyc/1sn?s=z)  
+  Bethpage, NY
+- **NBCUniversal**: [Media Tech: Data - AI & Machine Learning Internships - Summer 2027](http://www.nbcuniversal.com)  
+  New York City, NY · Summer 2027
+- **Zoetis**: [AI CAPABILITIES INTERN - AI ARCHITECTURE - ENABLEMENT & TOOLS](https://www.zoetis.com)  
+  Remote - Kalamazoo, MI +1
+- +40 more in `data/new_today.csv`
