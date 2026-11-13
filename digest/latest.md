@@ -1,73 +1,73 @@
-# New since last run · 2026-11-12
+# New since last run · 2026-11-13
 
-117 new · 3791 relevant roles tracked in total
+109 new · 3829 relevant roles tracked in total
 
 ## Design & UX (1)
-- **Systems Planning and Analysis**: [UI/UX Software Intern - Summer 2027](https://spa.com)  
+- **Systems Planning and Analysis**: [UI/UX Software Intern](https://go.vansh.nyc/1xp?s=y)  
   Alexandria, VA · Summer 2027
 
-## Software (74)
-- **Bask Health**: [Creative Engineering Intern](https://apply.workable.com/bask-health-1/j/24DD93E3BA/apply)  
+## Software (51)
+- **Bask Health**: [AI Engineering Intern](https://apply.workable.com/bask-health-1/j/F0E122E877/apply)  
   Remote in USA · posted 2026-11-12
-- **Bask Health**: [Frontend Engineer Intern - Frontend Engineering](https://apply.workable.com/bask-health-1/j/9C2964C7CD/apply)  
-  Remote in USA · posted 2026-11-12
-- **Bask Health**: [Frontend Engineering Intern](https://apply.workable.com/bask-health-1/j/9C2964C7CD/)  
+- **Bask Health**: [Machine Learning Engineering Intern](https://apply.workable.com/bask-health-1/j/71AEBBCADE/)  
   United States (Remote); Remote · posted 2026-11-12
-- **Bask Health**: [Software Engineer Intern](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/apply)  
-  Remote in USA · posted 2026-11-11
-- **Bask Health**: [Backend Engineer Intern - Backend Engineering](https://apply.workable.com/bask-health-1/j/98DB106D88/apply)  
-  Remote in USA · posted 2026-11-11
-- **Bask Health**: [Product Engineering Intern](https://apply.workable.com/bask-health-1/j/1C108B16E2/apply)  
-  Remote in USA · posted 2026-11-11
-- **Bask Health**: [Backend Engineering Intern](https://apply.workable.com/bask-health-1/j/98DB106D88/)  
-  United States (Remote); Remote · posted 2026-11-11
-- **Bask Health**: [Software Engineering Intern](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/)  
-  United States (Remote); Remote · posted 2026-11-11
-- **Formulary Financial**: [Software Engineering Intern](https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04)  
-  New York City (4 days on-site) · Summer 2027 · posted 2026-11-08
-- **Stripe**: [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8128745)  
-  San Francisco, Seattle, New York City · posted 2026-08-31
-- **Hudson River Trading**: [Software Engineer Intern - C++ or Python](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083)  
-  Austin, TX; Chicago, IL; NYC · Summer 2027 · posted 2026-07-13
-- **CareSource**: [Software Engineer Intern](https://go.vansh.nyc/1wz?s=y)  
-  Remote United States · Summer 2027
-- **Bask Health**: [Backend Engineer Intern](https://go.vansh.nyc/1vx?s=y)  
-  Remote United States · Summer 2027
-- **Addepar**: [Data Engineering Intern - Summer 2027](https://addepar.com)  
-  New York City, NY · Summer 2027
-- **TikTok**: [Software Engineer Intern - TikTok Search](https://lifeattiktok.com/search/7704696088079010053)  
+- **Greystone**: [Salesforce Developer Intern - Summer 2027](https://greyco.wd108.myworkdayjobs.com/GTI/job/New-York-NY/Summer-2027---Salesforce-Developer-Intern_JR0000144)  
+  New York, NY · Summer 2027 · posted 2026-10-20
+- **North Atlantic Industries**: [Embedded Software Engineer Intern](https://go.vansh.nyc/1y5?s=z)  
+  Bohemia, NY
+- **Tesla**: [Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/289796)  
+  Palo Alto, CA · Spring 2027, Summer 2027 · posted 2026-11-13
+- **Aurora Innovation**: [Software Engineer Intern - Vehicle Platforms](https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true)  
+  Mountain View, CA · Summer 2027 · posted 2026-11-13
+- **Valeo**: [Software Engineer Intern](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794)  
+  Troy, MI · posted 2026-11-13
+- **Valeo**: [Software Engineer Intern (Year-Round)](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794)  
+  Troy, MI · posted 2026-11-13
+- **Wolters Kluwer**: [Product Software Engineer Intern](https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Product-Software-Engineer_R0061394)  
+  Waltham, MA · posted 2026-11-12
+- **Leidos**: [Junior Software Engineer / Data Scientist Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510)  
+  Tucson, AZ · posted 2026-11-12
+- **Motorola Solutions**: [Systems Engineering Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657)  
+  Chicago, IL · posted 2026-11-12
+- **CACI**: [Embedded Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147)  
+  Westminster, CO · Summer 2027 · posted 2026-11-12
+- **Muon Space**: [Software Engineer Intern - Information Systems](https://job-boards.greenhouse.io/muonspace/jobs/5293973007)  
   San Jose, CA · Summer 2027 · posted 2026-11-12
-- +59 more in `data/new_today.csv`
+- **Atalanta**: [Software Engineer Intern](https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335/application?embed=true)  
+  Washington, DC · posted 2026-11-12
+- **Cintas**: [IT OT Software Engineer Intern](https://careers.cintas.com/job/Mason-IT-Intern-OT-Software-Engineer-OH-45040/1450367200/?ats=successfactors)  
+  Mason, OH · posted 2026-11-12
+- +36 more in `data/new_today.csv`
 
-## Data (42)
-- **Vanderlande Industries**: [Supply Chain Data & Analytics Intern](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708)  
-  Remote in USA; Marietta, GA · posted 2026-11-11
-- **Airbnb**: [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007)  
-  Remote in USA · Summer 2027 · posted 2026-11-11
-- **Riot Games**: [Machine Learning Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771)  
-  Remote in USA · Summer 2027 · posted 2026-11-11
-- **Trinity Life Sciences**: [Data Science Intern](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881)  
-  Waltham, MA; NYC · Summer 2027 · posted 2026-10-27
-- **ZS**: [AI Strategy Consultant Intern - North America - University Students](https://zs.com)  
-  New York City, NY
-- **InsCipher**: [AI Product Intern](https://ats.rippling.com/inscipher-careers/jobs/a79113bc-e11e-47a3-9d4e-8847e5ff4c9c)  
-  Pleasant Grove, UT · posted 2026-11-12
-- **Microsoft**: [Data Scientist Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027390)  
-  Redmond, WA · Summer 2027 · posted 2026-11-12
-- **Vizient**: [Contract Operations Intern - Analytics](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1)  
-  Irving, TX · Summer 2027 · posted 2026-11-12
-- **SharkNinja**: [Data Science Intern](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006)  
-  Needham, MA · Summer 2027 · posted 2026-11-12
-- **Fresenius Medical Care**: [Agentic AI Analytics Co-op](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797)  
-  Lawrence, MA · posted 2026-11-12
-- **ServiceNow**: [Assoc AI Engineering (Cloud Security Automation) Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161209600)  
-  Santa Clara, CALIFORNIA, United States · posted 2026-11-12
-- **Samsung**: [AI System Architecture Research Scientist Intern](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8197305003)  
-  San Jose, CA · posted 2026-11-11
-- **Toyota Research Institute**: [Future Product Innovation Research Intern - Human-AI Computational Design](https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2/apply)  
-  Los Altos, CA · posted 2026-11-11
-- **Panera Bread**: [Data Science & AI Analytics Intern](https://panerabread.wd5.myworkdayjobs.com/panera_careers/job/Newton-Support-Center/Data-Science---AI-Analytics---Summer-2027-Internship-Program_JR0049082)  
-  Newton, MA · Summer 2027 · posted 2026-11-11
-- **Genentech**: [Summer Intern - Digital, AI, and Clinical Outcome Assessments](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790)  
-  South SF · Summer 2027 · posted 2026-11-11
-- +27 more in `data/new_today.csv`
+## Data (57)
+- **WTW**: [Data Analyst Intern](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277)  
+  NYC · posted 2026-11-13
+- **WTW**: [Early Careers: Data Analyst Internship](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607277)  
+  New York, NY, United States · posted 2026-11-13
+- **National Laboratory of the Rockies**: [Year-Round Graduate Internship - AI/Machine Learning Time Series Modeling](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote-Site/Year-Round-Graduate-Internship---AI-Machine-Learning-Time-Series-Modeling_R14589)  
+  Remote in USA · posted 2026-11-12
+- **Intermountain Healthcare**: [Machine Learning Operations Intern](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318)  
+  Remote in USA · posted 2026-11-12
+- **Intermountain Healthcare**: [AI/ML Engineer Intern](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/AI-ML-Engineer-Intern_R188835)  
+  Remote in USA · posted 2026-11-12
+- **Environmental Defense Fund**: [Consumer Energy Analytics Intern](https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752)  
+  Remote in USA; St. Petersburg, FL · Summer 2027 · posted 2026-11-12
+- **Bask Health**: [Machine Learning Engineer Intern](https://apply.workable.com/bask-health-1/j/71AEBBCADE/apply)  
+  Remote in USA · posted 2026-11-12
+- **CareSource**: [Summer Internship Program – Provider Analytics AI Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481)  
+  Remote in USA · Summer 2027 · posted 2026-11-12
+- **CareSource**: [Clinical Operations Business Analyst Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353)  
+  Remote in USA · Summer 2027 · posted 2026-11-12
+- **White Cap Supply Holdings**: [Product Data Management Intern](https://whitecap.wd1.myworkdayjobs.com/careers/job/Corporate-Intern---Product-Data-Management_WCJR-036650)  
+  Remote in USA · posted 2026-11-12
+- **Pinterest**: [Sales Analytics Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8214783)  
+  San Francisco, CA, US; Remote, US · posted 2026-11-12
+- **The Toro Company**: [CX and Customer Lifetime Value Intern - Operations Analyst](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819)  
+  Bloomington, MN · Summer 2027 · posted 2026-11-13
+- **TikTok**: [Machine Learning Scientist Intern - Local Services](https://lifeattiktok.com/search/7703925583541979445)  
+  San Jose, CA · Summer 2027 · posted 2026-11-13
+- **Verisk**: [Data Science/AI Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184)  
+  Lehi, UT · Summer 2027 · posted 2026-11-13
+- **Merrick**: [GIS Analyst Intern](https://careers.merrick.com/jobs/8476?icims=1&lang=en-us)  
+  Greenwood Village, CO · Summer 2027 · posted 2026-11-13
+- +42 more in `data/new_today.csv`
