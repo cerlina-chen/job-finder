@@ -1,69 +1,69 @@
-# New since last run · 2026-11-18
+# New since last run · 2026-11-19
 
-83 new · 3785 relevant roles tracked in total
+63 new · 3784 relevant roles tracked in total
 
-## Software (43)
-- **Starwood Capital Group**: [Agentic Engineering Intern](https://jobs.jobvite.com/starwoodcapitalgroup/job/okzWAfw9?nl=1&nl=1&fr=false)  
-  NYC · posted 2026-11-17
-- **Palantir**: [Software Engineer, Internship - Connectivity Platform and Product](https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743)  
-  New York, NY · posted 2026-11-04
-- **Motorola Solutions**: [Software Engineer Co-op](https://go.vansh.nyc/1Cj?s=z)  
-  Remote United States
-- **Ecliptic Enterprises**: [Engineering Intern](https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply)  
-  San Luis Obispo, CA · posted 2026-11-18
-- **Airbnb**: [Software Engineer Intern](https://careers.airbnb.com/positions/8360478?gh_jid=8360478)  
-  SF · Summer 2027 · posted 2026-11-18
-- **Raptor Maps**: [Software Engineer Intern](https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a)  
-  Somerville, MA · Summer 2027 · posted 2026-11-17
-- **Lightmatter**: [Product & Test Engineering Intern](https://boards.greenhouse.io/lightmatter/jobs/5474690008)  
-  Mountain View, CA · Summer 2027 · posted 2026-11-17
-- **Lean TECHniques**: [Software Engineer Intern](https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862/application?embed=true)  
-  Johnston, IA · posted 2026-11-17
-- **SRI International**: [Software Engineering Co-op](https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false)  
-  Princeton, NJ · posted 2026-11-17
-- **Constellation Energy**: [IT Software Developer Intern](https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us)  
-  San Diego, CA · Summer 2027 · posted 2026-11-17
-- **Deeplocal**: [Engineering Intern](https://job-boards.greenhouse.io/deeplocal/jobs/8395842)  
-  Pittsburgh, PA · Summer 2027 · posted 2026-11-17
-- **General Dynamics Information Technology**: [Engineering Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323)  
-  Falls Church, VA; Gaithersburg, MD · Summer 2027 · posted 2026-11-16
-- **Textron**: [Software Engineer Intern - Electronic Systems](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688)  
-  Hunt Valley, Cockeysville, MD · Summer 2027 · posted 2026-09-01
-- **Pathlabs**: [Software and AI Engineering Intern](https://go.vansh.nyc/1BC?s=y)  
-  Missoula, MT · Summer 2027
-- **Lumentum**: [SW Developer Support Intern, Program Management Office](https://go.vansh.nyc/1BA?s=y)  
-  San Jose, CA · Summer 2027
-- +28 more in `data/new_today.csv`
+## Software (36)
+- **Scout Space**: [Embedded Firmware Engineering Intern 🇺🇸](https://go.vansh.nyc/1CU?s=y)  
+  Reston, VA Remote United States · Summer 2027
+- **Space Dynamics Laboratory**: [Software Engineering Assistant Intern](https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant)  
+  Logan, UT · posted 2026-11-19
+- **HERE Technologies**: [Software Engineer Intern](https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false)  
+  Chicago, IL · posted 2026-11-18
+- **Microsoft**: [Research Intern - AI Software Systems](https://apply.careers.microsoft.com/careers/job/1970393557075527)  
+  Redmond, WA · posted 2026-11-18
+- **Mytra**: [Software Engineer Intern](https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292)  
+  Brisbane, CA · posted 2026-11-18
+- **Amperity**: [Software Development Engineer Intern](https://go.vansh.nyc/1CY?s=y)  
+  Seattle, WA · Summer 2027
+- **RTX**: [Software Security Intern 🇺🇸](https://go.vansh.nyc/1CS?s=y)  
+  Cedar Rapids, IA · Summer 2027
+- **Ralliant**: [Software Engineering Intern](https://go.vansh.nyc/1CW?s=y)  
+  Beaverton, OR · Summer 2027
+- **Leidos**: [Software Developer Intern, AI Project 🇺🇸](https://go.vansh.nyc/1CT?s=y)  
+  Colorado Springs, CO · Summer 2027
+- **Carnival Corporation**: [BI Report Developer Intern, Crew Operations](https://go.vansh.nyc/1CV?s=y)  
+  Seattle, WA · Summer 2027
+- **Camping World**: [Junior AI Engineering Intern](https://go.vansh.nyc/1CA?s=y)  
+  Chicago, IL · Summer 2027
+- **Bose**: [Software Engineer Co-op](https://go.vansh.nyc/1Cq?s=z)  
+  Framingham, MA
+- **Kira Learning**: [Software Engineer Intern](https://go.vansh.nyc/1Cx?s=z)  
+  San Francisco, CA
+- **IDEMIA**: [Full Stack Software Engineering Internship](https://idemia.com)  
+  Reston, VA
+- **IDEMIA**: [Software Engineering Internship - Enrollment and Credentialing Services](https://idemia.com)  
+  Brentwood, TN
+- +21 more in `data/new_today.csv`
 
-## Data (40)
-- **DriveWealth**: [AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true)  
-  Chicago, IL; NYC · Summer 2027 · posted 2026-11-18
-- **Starwood Capital Group**: [Data Intern](https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false)  
-  NYC · posted 2026-11-17
-- **Google**: [People Analytics Intern](https://www.google.com/about/careers/applications/jobs/results/81809776362562246)  
-  SF; Chicago, IL; NYC; Mountain View, CA; Atlanta, GA · Summer 2027 · posted 2026-10-12
-- **Bristol Myers Squibb**: [Undergrad Data Science Intern](https://go.vansh.nyc/1Ck?s=y)  
-  Remote United States · Summer 2027
-- **Constellation Brands**: [Data and AI Enablement Intern](https://go.vansh.nyc/1Bp?s=y)  
-  Rochester, NY Chicago, IL · Summer 2027
-- **Constellation Brands**: [Intern - Data Science](https://www.cbrands.com)  
-  Rochester, NY
-- **Constellation Brands**: [Intern - Data and AI Enablement](https://www.cbrands.com)  
-  Rochester, NY +1
-- **CACI**: [Operations Intern - AI Tool Integration and Operational Testing - Summer 2027](https://www.caci.com)  
-  Remote - O'Fallon, IL · Summer 2027
-- **Alexander Group**: [Associate Commercial Data Science Intern](https://alexandergroup.com)  
-  New York City, NY
-- **Attain Partners**: [Data Analytics Intern](https://job-boards.greenhouse.io/attainpartners/jobs/5485427008)  
-  McLean, VA · Summer 2027 · posted 2026-11-17
-- **SAS**: [IoT Analytics Intern](https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false)  
-  Cary, NC · Summer 2027 · posted 2026-11-17
-- **Paccar**: [Data Scientist Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors)  
-  Denton, TX · Summer 2027 · posted 2026-11-17
-- **Bissell**: [AI & Automation Intern](https://careers.bissell.com/jobs/9995?icims=1&lang=en-us)  
-  Grand Rapids, MI · Summer 2027 · posted 2026-11-17
-- **Blount Fine Foods**: [Manufacturing Operations Analytics Intern](https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false)  
-  Fall River, MA · posted 2026-11-17
-- **Texas Instruments**: [Analog IC Design Engineer Intern - AI/ML](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319)  
-  Dallas, TX · posted 2026-11-17
-- +25 more in `data/new_today.csv`
+## Data (27)
+- **Goldman Sachs**: [Summer Analyst Intern - Multiple Teams](https://higher.gs.com/roles/189373?type=students)  
+  Albany, NY · Summer 2027 · posted 2026-11-18
+- **Scout Space**: [Computer Vision Engineer Intern - AI/ML](https://job-boards.greenhouse.io/scoutspace/jobs/5489231008)  
+  Reston, VA · posted 2026-11-19
+- **Atlantic Health System**: [Pharmacy Intern - Data Analytics](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551)  
+  Morristown, NJ · Summer 2027 · posted 2026-11-19
+- **Sheetz**: [Business Intelligence Analytics Intern](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us)  
+  Pittsburgh, PA · Summer 2027 · posted 2026-11-18
+- **HERE Technologies**: [Data Science Intern](https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false)  
+  Chicago, IL · posted 2026-11-18
+- **Syngenta Group**: [Data Science Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708)  
+  Greensboro, NC · posted 2026-11-18
+- **Samsung**: [Architecture Research Engineer Intern - Agentic AI Workload Characterization](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003)  
+  San Jose, CA · posted 2026-11-18
+- **Microsoft**: [Research Intern - Self-Improving & Secure AI Agents](https://apply.careers.microsoft.com/careers/job/1970393557075136)  
+  Redmond, WA · posted 2026-11-18
+- **Vibrantz Technologies**: [Applied AI & Automation Intern](https://go.vansh.nyc/1Ct?s=y)  
+  Houston, TX · Summer 2027
+- **Deccan AI**: [ML Intern](https://deccan.ai)  
+  Mountain View, CA
+- **IDEMIA**: [Financial Data Analyst Internship](https://idemia.com)  
+  Reston, VA
+- **Aerospace**: [2027 Machine Learning Engineering Graduate Intern](https://aerospace.org)  
+  El Segundo, CA +1
+- **Aerospace**: [2027 Machine Learning Engineer Undergrad Intern](https://aerospace.org)  
+  El Segundo, CA +1
+- **Anduril**: [2027 Machine Learning Engineer Intern](https://www.anduril.com)  
+  Santa Ana, CA
+- **Attain Partners**: [Summer 2027 Data Analytics Intern](https://attainpartners.com/)  
+  McLean, VA · Summer 2027
+- +12 more in `data/new_today.csv`

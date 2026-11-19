@@ -1,84 +1,64 @@
 section,company,title,terms,location,posted,note,sources,url
-Software,Starwood Capital Group,Agentic Engineering Intern,,NYC,2026-11-17,,"Simplify, vanshb03",https://jobs.jobvite.com/starwoodcapitalgroup/job/okzWAfw9?nl=1&nl=1&fr=false
-Software,Palantir,"Software Engineer, Internship - Connectivity Platform and Product",,"New York, NY",2026-11-04,,Palantir board,https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743
-Software,Motorola Solutions,Software Engineer Co-op,,Remote United States,,,vanshb03 off-season,https://go.vansh.nyc/1Cj?s=z
-Software,Ecliptic Enterprises,Engineering Intern,,"San Luis Obispo, CA",2026-11-18,,Simplify,https://apply.workable.com/ecliptic-enterprises-corporation/j/45447E539A/apply
-Software,Airbnb,Software Engineer Intern,Summer 2027,SF,2026-11-18,,Simplify,https://careers.airbnb.com/positions/8360478?gh_jid=8360478
-Software,Raptor Maps,Software Engineer Intern,Summer 2027,"Somerville, MA",2026-11-17,,Simplify,https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a
-Software,Lightmatter,Product & Test Engineering Intern,Summer 2027,"Mountain View, CA",2026-11-17,,Simplify,https://boards.greenhouse.io/lightmatter/jobs/5474690008
-Software,Lean TECHniques,Software Engineer Intern,,"Johnston, IA",2026-11-17,,"Simplify, vanshb03",https://jobs.ashbyhq.com/leantechniques/c89ba377-fab3-4246-a0cf-9d954cf4c862/application?embed=true
-Software,SRI International,Software Engineering Co-op,,"Princeton, NJ",2026-11-17,,Simplify,https://careers-sri.icims.com/jobs/6540/job?mobile=true&needsRedirect=false
-Software,Constellation Energy,IT Software Developer Intern,Summer 2027,"San Diego, CA",2026-11-17,,Simplify,https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us
-Software,Deeplocal,Engineering Intern,Summer 2027,"Pittsburgh, PA",2026-11-17,,Simplify,https://job-boards.greenhouse.io/deeplocal/jobs/8395842
-Software,General Dynamics Information Technology,Engineering Intern,Summer 2027,"Falls Church, VA; Gaithersburg, MD",2026-11-16,,Simplify,https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323
-Software,Textron,Software Engineer Intern - Electronic Systems,Summer 2027,"Hunt Valley, Cockeysville, MD",2026-09-01,,Simplify,https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688
-Software,Pathlabs,Software and AI Engineering Intern,Summer 2027,"Missoula, MT",,,vanshb03,https://go.vansh.nyc/1BC?s=y
-Software,Lumentum,"SW Developer Support Intern, Program Management Office",Summer 2027,"San Jose, CA",,,vanshb03,https://go.vansh.nyc/1BA?s=y
-Software,Garmin,"Software Engineer Intern, Real Time Aviation Data",Summer 2027,"Chanhassen, MN",,,vanshb03,https://go.vansh.nyc/1Bs?s=y
-Software,Draper,Software Engineering & DevOps Intern,Summer 2027,"Cambridge, MA",,,vanshb03,https://go.vansh.nyc/1BD?s=y
-Software,Airbnb,Software Engineering Intern,Summer 2027,"San Francisco, CA",,,vanshb03,https://go.vansh.nyc/1C6?s=y
-Software,T-Mobile,Software Engineering AI Intern,Summer 2027,"Atlanta, GA",,,vanshb03,https://go.vansh.nyc/1Bx?s=y
-Software,Sallie Mae,Software Engineer Intern,Summer 2027,"Indianapolis, IN",,,vanshb03,https://go.vansh.nyc/1C4?s=y
-Software,Bread Financial,Software Engineering Intern,Summer 2027,"5 locations  Columbus, OH Chadds Ford, PA Frisco, TX Draper, UT Wilmington, DE",,,vanshb03,https://go.vansh.nyc/1Bz?s=y
-Software,State Street,Software Engineering Intern,,"Quincy, MA",,,vanshb03 off-season,https://go.vansh.nyc/1C0?s=z
-Software,State Street,Full Stack Development Intern,,"Quincy, MA",,,vanshb03 off-season,https://go.vansh.nyc/1Bu?s=z
-Software,Falcomm,"Undergraduate AI/ML Software Engineer Intern, AI/CAD Integration",,"Atlanta, GA",,,vanshb03 off-season,https://go.vansh.nyc/1BO?s=z
-Software,Compunetix,Software Engineer Co-op,,"Monroeville, PA",,,vanshb03 off-season,https://go.vansh.nyc/1BM?s=z
-Software,Forterra,2027 Intern - Software,,"Clarksburg, MD +4",,,speedyapply,https://forterra.com
-Software,HexArmor,Software Engineering Intern,,"Atlanta, GA",,,speedyapply,http://www.hexarmor.com
-Software,ASML,Internship-Generative AI developer,,"San Jose, CA",,,speedyapply,https://www.asml.com
-Software,Bread Financial,Intern - Software Engineering,,"Columbus, OH +4",,,speedyapply,https://www.breadfinancial.com
-Software,Pacific Fusion,Summer 2027 HPC/DevOps Engineering Intern,Summer 2027,"San Leandro, CA",,,speedyapply,https://www.pacificfusion.com/
-Software,SRI International,Drexel University Co-op: Software Engineering/Full stack development,,"Princeton, NJ",,,speedyapply,https://www.sri.com
-Software,SRI International,Drexel University Co-op: Embedded Software Engineering,,"Princeton, NJ",,,speedyapply,https://www.sri.com
-Software,T-Mobile,Summer 2027 Software Engineer Internship,Summer 2027,"Overland Park, KS",,,speedyapply,https://www.t-mobile.com
-Software,T-Mobile,Summer 2027 Software Engineering AI Intern,Summer 2027,"Atlanta, GA",,,speedyapply,https://www.t-mobile.com
-Software,Raytheon,2027 Summer Intern - Software Engineering - Onsite,,"El Segundo, CA",,,speedyapply,https://www.rtx.com
-Software,SecurityMetrics,Intern - Software Engineer,,"Orem, UT",,,speedyapply,https://www.securitymetrics.com
-Software,Scot Forge,IT Software Development Intern - Summer 2027,Summer 2027,"Spring Grove, IL",,,speedyapply,https://www.scotforge.com
-Software,Jasper Engines & Transmissions,IT Full Stack Developer Internship: Summer 2027,Summer 2027,"Jasper, IN",,,speedyapply,https://www.jasperengines.com/
-Software,Quest Analytics,Software Engineer Intern - C# - ASP.NET - Summer 2027 in Kansas City,Summer 2027,"Overland Park, KS",,,speedyapply,http://www.questanalytics.com
-Software,General Motors,2027 Summer Intern - Digital Product: Software Engineering,,"Warren, MI +3",,,speedyapply,https://www.gm.com
-Software,Walmart,Summer 2027 Intern:: Software Engineer II,Summer 2027,USA,,,speedyapply,https://walmart.com
-Software,CesiumAstro,Summer 2027 - Software Engineering Internship,Summer 2027,"Austin, TX",,,speedyapply,https://www.cesiumastro.com
-Software,Zipline,Software Systems Validation Intern - Summer 2027,Summer 2027,"South San Francisco, CA",,,speedyapply,https://flyzipline.com
-Data,DriveWealth,AI Consulting Associate Program People Analytics Intern,Summer 2027,"Chicago, IL; NYC",2026-11-18,,Simplify,https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true
-Data,Starwood Capital Group,Data Intern,,NYC,2026-11-17,,"Simplify, vanshb03",https://jobs.jobvite.com/starwoodcapitalgroup/job/olEYAfwh?nl=1&nl=1&fr=false
-Data,Google,People Analytics Intern,Summer 2027,"SF; Chicago, IL; NYC; Mountain View, CA; Atlanta, GA",2026-10-12,,Simplify,https://www.google.com/about/careers/applications/jobs/results/81809776362562246
-Data,Bristol Myers Squibb,Undergrad Data Science Intern,Summer 2027,Remote United States,,,vanshb03,https://go.vansh.nyc/1Ck?s=y
-Data,Constellation Brands,Data and AI Enablement Intern,Summer 2027,"Rochester, NY Chicago, IL",,,vanshb03,https://go.vansh.nyc/1Bp?s=y
-Data,Constellation Brands,Intern - Data Science,,"Rochester, NY",,,speedyapply,https://www.cbrands.com
-Data,Constellation Brands,Intern - Data and AI Enablement,,"Rochester, NY +1",,,speedyapply,https://www.cbrands.com
-Data,CACI,Operations Intern - AI Tool Integration and Operational Testing - Summer 2027,Summer 2027,"Remote - O'Fallon, IL",,,speedyapply,https://www.caci.com
-Data,Alexander Group,Associate Commercial Data Science Intern,,"New York City, NY",,,speedyapply,https://alexandergroup.com
-Data,Attain Partners,Data Analytics Intern,Summer 2027,"McLean, VA",2026-11-17,,Simplify,https://job-boards.greenhouse.io/attainpartners/jobs/5485427008
-Data,SAS,IoT Analytics Intern,Summer 2027,"Cary, NC",2026-11-17,,Simplify,https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false
-Data,Paccar,Data Scientist Intern,Summer 2027,"Denton, TX",2026-11-17,,"Simplify, vanshb03",https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Data-Scientist-TX-76205-7864/1458178433/?ats=successfactors
-Data,Bissell,AI & Automation Intern,Summer 2027,"Grand Rapids, MI",2026-11-17,,"Simplify, vanshb03",https://careers.bissell.com/jobs/9995?icims=1&lang=en-us
-Data,Blount Fine Foods,Manufacturing Operations Analytics Intern,,"Fall River, MA",2026-11-17,,Simplify,https://jobs.jobvite.com/blountfinefoods/job/oBf3Afwd?nl=1&nl=1&fr=false
-Data,Texas Instruments,Analog IC Design Engineer Intern - AI/ML,,"Dallas, TX",2026-11-17,,Simplify,https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020319
-Data,State Street,Data Scientist Intern,Summer 2027,"Boston, MA",,,vanshb03,https://go.vansh.nyc/1C1?s=y
-Data,CrowdStrike,AI Research Launch Intern,Summer 2027,"Sunnyvale, CA",,,vanshb03,https://go.vansh.nyc/1BB?s=y
-Data,Cloudflare,"AI & Automation Intern, Communications 🛂",,"Office, IN",,,vanshb03 off-season,https://go.vansh.nyc/1By?s=z
-Data,Exowatt,Robotics & Physical AI Intern,,"Miami, FL",,,vanshb03 off-season,https://go.vansh.nyc/1Bq?s=z
-Data,SemiAnalysis,Semiconductor & AI Research Intern,,"Hillsboro, OR",,,speedyapply,https://semianalysis.com
-Data,SemiAnalysis,Research Analyst Intern - AI Infrastructure & Economics,,"San Francisco, CA +1",,,speedyapply,https://semianalysis.com
-Data,SemiAnalysis,Summer Intern - AI Tokenomics,,"San Francisco, CA",,,speedyapply,https://semianalysis.com
-Data,Thought Logic,Data - Analytics & AI Consulting Intern - Atlanta,,"Atlanta, GA",,,speedyapply,https://thoughtlogic.com
-Data,ASML,Internship- AI Research and Development,,"San Jose, CA",,,speedyapply,https://www.asml.com
-Data,AstraZeneca,Finance AI & Data Analytics Intern - Undergraduate - LIFT Program,,"Wilmington, DE",,,speedyapply,https://www.astrazeneca.com
-Data,Bread Financial,Intern - Talent Development AI Strategy,,"Columbus, OH +4",,,speedyapply,https://www.breadfinancial.com
-Data,Carnegie Mellon University,AI Engineer Intern - Mission Innovation Lab - Summer 2027,Summer 2027,"Pittsburgh, PA",,,speedyapply,https://www.cmu.edu
-Data,ICF,2027 Summer Intern - AI Engineer,,"Reston, VA",,,speedyapply,https://www.icf.com
-Data,Lumentum,Internship - Data Science & Analytics,,USA +2,,,speedyapply,https://www.lumentum.com
-Data,Micron Technology,Intern - Segment Marketing Data Analyst,,"San Jose, CA",,,speedyapply,https://www.micron.com/
-Data,Micron Technology,Intern - Data Science - SMAI,,"Boise, ID",,,speedyapply,https://www.micron.com/
-Data,Roche,2027 Summer Intern - GCS ML Sequencing,,"Santa Clara, CA",,,speedyapply,https://roche.com/
-Data,Toyota Research Institute,Automated Driving Advanced Development Intern - Machine Learning Research - Cambridge,,"Cambridge, MA",,,speedyapply,http://tri.global
-Data,Camping World,Data Analyst Intern,,"Chicago, IL",,,speedyapply,https://www.campingworld.com/
-Data,Lightmatter,Data & AI Platform - Intern - Summer 2027,Summer 2027,"Boston, MA",,,speedyapply,https://lightmatter.co
-Data,Walmart,Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern,Summer 2027,USA,,,speedyapply,https://walmart.com
-Data,Terranova,AI Intern — Part-Time - Temporary - In Person,,"Berkeley, CA",,,speedyapply,https://terranova.inc/
-Data,Scot Forge,IT Data Science and Business Intelligence Intern - Summer 2027,Summer 2027,"Spring Grove, IL",,,speedyapply,https://www.scotforge.com
-Data,CapTech Consulting,Consulting Internship: Data Analysis/Data Engineering - Summer 2027,Summer 2027,"Richmond, VA",,,speedyapply,https://www.captechconsulting.com
-Data,Walmart,Summer 2027 Intern:: Data Science III,Summer 2027,USA,,,speedyapply,https://walmart.com
+Software,Scout Space,Embedded Firmware Engineering Intern 🇺🇸,Summer 2027,"Reston, VA Remote United States",,,vanshb03,https://go.vansh.nyc/1CU?s=y
+Software,Space Dynamics Laboratory,Software Engineering Assistant Intern,,"Logan, UT",2026-11-19,,Simplify,https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant
+Software,HERE Technologies,Software Engineer Intern,,"Chicago, IL",2026-11-18,,"Simplify, vanshb03",https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false
+Software,Microsoft,Research Intern - AI Software Systems,,"Redmond, WA",2026-11-18,,Simplify,https://apply.careers.microsoft.com/careers/job/1970393557075527
+Software,Mytra,Software Engineer Intern,,"Brisbane, CA",2026-11-18,,Simplify,https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292
+Software,Amperity,Software Development Engineer Intern,Summer 2027,"Seattle, WA",,,vanshb03,https://go.vansh.nyc/1CY?s=y
+Software,RTX,Software Security Intern 🇺🇸,Summer 2027,"Cedar Rapids, IA",,,vanshb03,https://go.vansh.nyc/1CS?s=y
+Software,Ralliant,Software Engineering Intern,Summer 2027,"Beaverton, OR",,,vanshb03,https://go.vansh.nyc/1CW?s=y
+Software,Leidos,"Software Developer Intern, AI Project 🇺🇸",Summer 2027,"Colorado Springs, CO",,,vanshb03,https://go.vansh.nyc/1CT?s=y
+Software,Carnival Corporation,"BI Report Developer Intern, Crew Operations",Summer 2027,"Seattle, WA",,,vanshb03,https://go.vansh.nyc/1CV?s=y
+Software,Camping World,Junior AI Engineering Intern,Summer 2027,"Chicago, IL",,,vanshb03,https://go.vansh.nyc/1CA?s=y
+Software,Bose,Software Engineer Co-op,,"Framingham, MA",,,vanshb03 off-season,https://go.vansh.nyc/1Cq?s=z
+Software,Kira Learning,Software Engineer Intern,,"San Francisco, CA",,,vanshb03 off-season,https://go.vansh.nyc/1Cx?s=z
+Software,IDEMIA,Full Stack Software Engineering Internship,,"Reston, VA",,,speedyapply,https://idemia.com
+Software,IDEMIA,Software Engineering Internship - Enrollment and Credentialing Services,,"Brentwood, TN",,,speedyapply,https://idemia.com
+Software,IDEMIA,Software Engineer Internship - Summer 2027,Summer 2027,"Reston, VA",,,speedyapply,https://idemia.com
+Software,Lean TECHniques,Software Intern - Hybrid,,"Johnston, IA",,,speedyapply,https://leantechniques.com/
+Software,Revealed,Software Engineering Intern,,Americas +1,,,speedyapply,https://www.revealed.ai
+Software,Amentum,Software Programmer Intern,,"Tullahoma, TN",,,speedyapply,https://www.amentum.com
+Software,Amentum,DoD SkillBridge Internship - Cybersecurity Software and Systems Engineer,,"Houston, TX",,,speedyapply,https://www.amentum.com
+Software,Falcomm,AI/ML Software Engineer Graduate Intern - AI/CAD Integration,,"Atlanta, GA",,,speedyapply,https://www.myfalcomm.com
+Software,Invitation Homes,Intern. Software Engineering,,"Dallas, TX",,,speedyapply,https://www.invitationhomes.com
+Software,Lumentum,Internship - SW Developer Support - Program Management Office,,USA +2,,,speedyapply,https://www.lumentum.com
+Software,Nelnet,Intern - IT Software Engineer - Summer 2027,Summer 2027,"Lincoln, NE",,,speedyapply,https://nelnet.com
+Software,Parsons,Software Intern - Summer 2027,Summer 2027,"Denver, CO",,,speedyapply,https://www.parsons.com
+Software,Sallie Mae,Software Engineering Intern,,"Indianapolis, IN",,,speedyapply,https://www.salliemae.com
+Software,SRI International,Drexel University Co-op: Software Engineering,,"Princeton, NJ",,,speedyapply,https://www.sri.com
+Software,Shive-Hattery,Internship - Software Development,,"Iowa City, IA",,,speedyapply,https://www.shive-hattery.com/
+Software,Biodesix,Software Development & AI Internship - Undergrad/Graduate,,"Louisville, CO",,,speedyapply,https://www.biodesix.com
+Software,The Bernard Group,Intern - Software Engineer - Full Stack,,"Chanhassen, MN",,,speedyapply,https://thebernardgroup.com
+Software,Gentuity,Test Engineer - Software & Systems Co-Op,,"Sudbury, MA",,,speedyapply,https://gentuity.com
+Software,Lennar,Intern - Software Engineering,,"Miami, FL",,,speedyapply,https://lennar.com/
+Software,Lima One Capital,Software and Systems Quality Intern,,"Greenville, SC",,,speedyapply,https://limaone.com
+Software,Waggoner Financial,Software Engineer Internship,,"Lansing, MI",,,speedyapply,https://waggoner-financial.com
+Software,Central Insurance,Data Engineering Intern,,"Van Wert, OH +1",,,speedyapply,https://central-insurance.com
+Software,General Dynamics Mission Systems,AI Engineering Intern- Summer 2027,Summer 2027,"Middletown, RI",,,speedyapply,https://gdmissionsystems.com/
+Data,Goldman Sachs,Summer Analyst Intern - Multiple Teams,Summer 2027,"Albany, NY",2026-11-18,,Simplify,https://higher.gs.com/roles/189373?type=students
+Data,Scout Space,Computer Vision Engineer Intern - AI/ML,,"Reston, VA",2026-11-19,,"Simplify, vanshb03",https://job-boards.greenhouse.io/scoutspace/jobs/5489231008
+Data,Atlantic Health System,Pharmacy Intern - Data Analytics,Summer 2027,"Morristown, NJ",2026-11-19,,Simplify,https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551
+Data,Sheetz,Business Intelligence Analytics Intern,Summer 2027,"Pittsburgh, PA",2026-11-18,,Simplify,https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us
+Data,HERE Technologies,Data Science Intern,,"Chicago, IL",2026-11-18,,"Simplify, vanshb03",https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false
+Data,Syngenta Group,Data Science Intern,,"Greensboro, NC",2026-11-18,,"Simplify, vanshb03",https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708
+Data,Samsung,Architecture Research Engineer Intern - Agentic AI Workload Characterization,,"San Jose, CA",2026-11-18,,Simplify,https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003
+Data,Microsoft,Research Intern - Self-Improving & Secure AI Agents,,"Redmond, WA",2026-11-18,,Simplify,https://apply.careers.microsoft.com/careers/job/1970393557075136
+Data,Vibrantz Technologies,Applied AI & Automation Intern,Summer 2027,"Houston, TX",,,vanshb03,https://go.vansh.nyc/1Ct?s=y
+Data,Deccan AI,ML Intern,,"Mountain View, CA",,,speedyapply,https://deccan.ai
+Data,IDEMIA,Financial Data Analyst Internship,,"Reston, VA",,,speedyapply,https://idemia.com
+Data,Aerospace,2027 Machine Learning Engineering Graduate Intern,,"El Segundo, CA +1",,,speedyapply,https://aerospace.org
+Data,Aerospace,2027 Machine Learning Engineer Undergrad Intern,,"El Segundo, CA +1",,,speedyapply,https://aerospace.org
+Data,Anduril,2027 Machine Learning Engineer Intern,,"Santa Ana, CA",,,speedyapply,https://www.anduril.com
+Data,Attain Partners,Summer 2027 Data Analytics Intern,Summer 2027,"McLean, VA",,,speedyapply,https://attainpartners.com/
+Data,Booz Allen,University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach,,"Fort Walton Beach, FL",,,speedyapply,https://www.boozallen.com
+Data,Bosch,AI Application Intern - 8 months/40 hours per week,,"Farmington Hills, MI",,,speedyapply,https://www.bosch.com/
+Data,Camping World,AI Intern,,"Chicago, IL",,,speedyapply,https://www.campingworld.com/
+Data,Exowatt,Robotics & Physical AI Spring Intern - Miami,,"Miami, FL",,,speedyapply,https://www.exowatt.com/
+Data,Hewlett Packard Enterprise,HPE Labs - AI Enablement Intern,,"Milpitas, CA",,,speedyapply,https://hpe.com/
+Data,Nelnet,Intern - Data Analytics,,"Lincoln, NE",,,speedyapply,https://nelnet.com
+Data,State Street,State Street Investment Management - Data Scientist - Summer Internship 2027,,"Boston, MA",,,speedyapply,https://statestreet.com
+Data,Lennar,Intern - Data Engineering,,"Miami, FL",,,speedyapply,https://lennar.com/
+Data,Biodesix,Data Analytics & Business Intelligence Internship - Undergrad/Graduate,,"Louisville, CO",,,speedyapply,https://www.biodesix.com
+Data,Biodesix,AI Research & Development Internship - Undergraduate,,"Louisville, CO",,,speedyapply,https://www.biodesix.com
+Data,Lennar,Intern - AI Engineering,,"Irving, TX",,,speedyapply,https://lennar.com/
+Data,Judi Health,Data Engineering Fall Intern - Part Time,,"Denver, CO +1",,,speedyapply,https://judi.health
