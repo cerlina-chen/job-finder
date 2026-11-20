@@ -1,69 +1,69 @@
-# New since last run · 2026-11-19
+# New since last run · 2026-11-20
 
-63 new · 3784 relevant roles tracked in total
+116 new · 3824 relevant roles tracked in total
 
-## Software (36)
-- **Scout Space**: [Embedded Firmware Engineering Intern 🇺🇸](https://go.vansh.nyc/1CU?s=y)  
-  Reston, VA Remote United States · Summer 2027
-- **Space Dynamics Laboratory**: [Software Engineering Assistant Intern](https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant)  
-  Logan, UT · posted 2026-11-19
-- **HERE Technologies**: [Software Engineer Intern](https://careers-here.icims.com/jobs/83731/job?mobile=true&needsRedirect=false)  
-  Chicago, IL · posted 2026-11-18
-- **Microsoft**: [Research Intern - AI Software Systems](https://apply.careers.microsoft.com/careers/job/1970393557075527)  
-  Redmond, WA · posted 2026-11-18
-- **Mytra**: [Software Engineer Intern](https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292)  
-  Brisbane, CA · posted 2026-11-18
-- **Amperity**: [Software Development Engineer Intern](https://go.vansh.nyc/1CY?s=y)  
-  Seattle, WA · Summer 2027
-- **RTX**: [Software Security Intern 🇺🇸](https://go.vansh.nyc/1CS?s=y)  
-  Cedar Rapids, IA · Summer 2027
-- **Ralliant**: [Software Engineering Intern](https://go.vansh.nyc/1CW?s=y)  
-  Beaverton, OR · Summer 2027
-- **Leidos**: [Software Developer Intern, AI Project 🇺🇸](https://go.vansh.nyc/1CT?s=y)  
-  Colorado Springs, CO · Summer 2027
-- **Carnival Corporation**: [BI Report Developer Intern, Crew Operations](https://go.vansh.nyc/1CV?s=y)  
-  Seattle, WA · Summer 2027
-- **Camping World**: [Junior AI Engineering Intern](https://go.vansh.nyc/1CA?s=y)  
-  Chicago, IL · Summer 2027
-- **Bose**: [Software Engineer Co-op](https://go.vansh.nyc/1Cq?s=z)  
-  Framingham, MA
-- **Kira Learning**: [Software Engineer Intern](https://go.vansh.nyc/1Cx?s=z)  
-  San Francisco, CA
-- **IDEMIA**: [Full Stack Software Engineering Internship](https://idemia.com)  
-  Reston, VA
-- **IDEMIA**: [Software Engineering Internship - Enrollment and Credentialing Services](https://idemia.com)  
-  Brentwood, TN
-- +21 more in `data/new_today.csv`
+## Software (57)
+- **iA**: [Software Development Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1)  
+  Binghamton, NY · Summer 2027 · posted 2026-11-20
+- **Wurl**: [Data Engineering Intern](https://go.vansh.nyc/1Ep?s=y)  
+  Remote United States · Summer 2027
+- **Sezzle**: [A.I. Engineering Intern](https://go.vansh.nyc/1Es?s=y)  
+  Remote United States · Summer 2027
+- **Centene Corporation**: [Undergraduate Analytics Engineering Intern](https://go.vansh.nyc/1DY?s=y)  
+  Remote United States · Summer 2027
+- **Kira**: [Software Engineering Intern - Winter '27](https://www.kira-learning.com/)  
+  New York City, NY +1
+- **Veeam**: [AI & Automation Engineering Intern - Summer 2027](https://www.veeam.com/)  
+  Remote - Georgia, USA · Summer 2027
+- **Lawrence Livermore National Laboratory (LLNL)**: [Engineering Intern](https://jobs.smartrecruiters.com/LLNL/3743990016986011)  
+  Livermore, CA · Summer 2027 · posted 2026-11-20
+- **Pathlabs**: [Software and AI Engineer Intern](https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern)  
+  Missoula, MT · posted 2026-11-20
+- **Lucid Motors**: [Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007)  
+  Newark, CA · Summer 2027 · posted 2026-11-20
+- **Lucid Motors**: [Infotainment Software Intern](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007)  
+  Newark, CA · Summer 2027, Fall 2027 · posted 2026-11-20
+- **Melaleuca**: [Software Development Intern](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf)  
+  Idaho Falls, ID · Summer 2027 · posted 2026-11-20
+- **CAS**: [Technology Intern - Software Engineering](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846)  
+  Columbus, OH · Summer 2027 · posted 2026-11-20
+- **Centralized Supply Chain Services**: [Engineering Intern](https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=37bcf213-e2be-4f42-9935-303281746ec0)  
+  Lenexa, KS · posted 2026-11-20
+- **iA**: [Software Data Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1)  
+  Indianapolis, IN · Summer 2027 · posted 2026-11-20
+- **Marias Technology**: [Software Developer Intern](https://mariastechnology.bamboohr.com/careers/27/)  
+  Covington, OH · posted 2026-11-20
+- +42 more in `data/new_today.csv`
 
-## Data (27)
-- **Goldman Sachs**: [Summer Analyst Intern - Multiple Teams](https://higher.gs.com/roles/189373?type=students)  
-  Albany, NY · Summer 2027 · posted 2026-11-18
-- **Scout Space**: [Computer Vision Engineer Intern - AI/ML](https://job-boards.greenhouse.io/scoutspace/jobs/5489231008)  
-  Reston, VA · posted 2026-11-19
-- **Atlantic Health System**: [Pharmacy Intern - Data Analytics](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551)  
-  Morristown, NJ · Summer 2027 · posted 2026-11-19
-- **Sheetz**: [Business Intelligence Analytics Intern](https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us)  
-  Pittsburgh, PA · Summer 2027 · posted 2026-11-18
-- **HERE Technologies**: [Data Science Intern](https://careers-here.icims.com/jobs/85068/job?mobile=true&needsRedirect=false)  
-  Chicago, IL · posted 2026-11-18
-- **Syngenta Group**: [Data Science Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000162383708)  
-  Greensboro, NC · posted 2026-11-18
-- **Samsung**: [Architecture Research Engineer Intern - Agentic AI Workload Characterization](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003)  
-  San Jose, CA · posted 2026-11-18
-- **Microsoft**: [Research Intern - Self-Improving & Secure AI Agents](https://apply.careers.microsoft.com/careers/job/1970393557075136)  
-  Redmond, WA · posted 2026-11-18
-- **Vibrantz Technologies**: [Applied AI & Automation Intern](https://go.vansh.nyc/1Ct?s=y)  
-  Houston, TX · Summer 2027
-- **Deccan AI**: [ML Intern](https://deccan.ai)  
-  Mountain View, CA
-- **IDEMIA**: [Financial Data Analyst Internship](https://idemia.com)  
-  Reston, VA
-- **Aerospace**: [2027 Machine Learning Engineering Graduate Intern](https://aerospace.org)  
-  El Segundo, CA +1
-- **Aerospace**: [2027 Machine Learning Engineer Undergrad Intern](https://aerospace.org)  
-  El Segundo, CA +1
-- **Anduril**: [2027 Machine Learning Engineer Intern](https://www.anduril.com)  
-  Santa Ana, CA
-- **Attain Partners**: [Summer 2027 Data Analytics Intern](https://attainpartners.com/)  
-  McLean, VA · Summer 2027
-- +12 more in `data/new_today.csv`
+## Data (59)
+- **Wurl**: [Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4731130006)  
+  Remote in USA · posted 2026-11-20
+- **Barry's**: [Undergraduate Summer Scholar Intern - Data Analyst](https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f)  
+  NYC · Summer 2027 · posted 2026-11-19
+- **iCapital Network**: [Data Solutions Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002)  
+  NYC · Summer 2027 · posted 2026-11-18
+- **GlobalFoundries**: [AI/ML Analytics Intern, Digital Manufacturing](https://go.vansh.nyc/1EA?s=y)  
+  New York, NY Malta, NY · Summer 2027
+- **Constellation Brands**: [Data Science Intern](https://go.vansh.nyc/1DX?s=y)  
+  Rochester, NY · Summer 2027
+- **Bristol Myers Squibb**: [Data Science Intern - Undergrad-Summer 2027](https://www.bms.com)  
+  Remote - USA · Summer 2027
+- **Mira Safety**: [AI Content Creator Intern - Remote/Hybrid](http://www.mirasafety.com/)  
+  Cedar Park, TX
+- **LinkedIn**: [AI/ML Engineer Intern - Generative AI](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639)  
+  Mountain View, CA · Summer 2027 · posted 2026-11-20
+- **LinkedIn**: [AI/ML Engineer Intern](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808)  
+  Mountain View, CA · Summer 2027 · posted 2026-11-20
+- **LinkedIn**: [Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368)  
+  Mountain View, CA · Summer 2027 · posted 2026-11-20
+- **Southern Mississippi Trading**: [AI and Business Analytics Intern](https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern)  
+  Waynesboro, MS · posted 2026-11-20
+- **Scheels**: [Data Analyst Intern](https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24)  
+  Fargo, ND · posted 2026-11-20
+- **Park National Bank**: [Data Engineering/Data Science Intern](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1)  
+  Newark, OH · posted 2026-11-20
+- **Park National Bank**: [Business Intelligence Intern](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4)  
+  Newark, OH · posted 2026-11-20
+- **Centralized Supply Chain Services**: [Data Quality Intern](https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=a2ce0cf6-5514-4817-976f-974dcc0ca215)  
+  Lenexa, KS · posted 2026-11-20
+- +44 more in `data/new_today.csv`
