@@ -1,69 +1,69 @@
-# New since last run · 2026-11-20
+# New since last run · 2026-11-21
 
-116 new · 3824 relevant roles tracked in total
+109 new · 3867 relevant roles tracked in total
 
-## Software (57)
-- **iA**: [Software Development Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1)  
-  Binghamton, NY · Summer 2027 · posted 2026-11-20
-- **Wurl**: [Data Engineering Intern](https://go.vansh.nyc/1Ep?s=y)  
-  Remote United States · Summer 2027
-- **Sezzle**: [A.I. Engineering Intern](https://go.vansh.nyc/1Es?s=y)  
-  Remote United States · Summer 2027
-- **Centene Corporation**: [Undergraduate Analytics Engineering Intern](https://go.vansh.nyc/1DY?s=y)  
-  Remote United States · Summer 2027
-- **Kira**: [Software Engineering Intern - Winter '27](https://www.kira-learning.com/)  
-  New York City, NY +1
-- **Veeam**: [AI & Automation Engineering Intern - Summer 2027](https://www.veeam.com/)  
-  Remote - Georgia, USA · Summer 2027
-- **Lawrence Livermore National Laboratory (LLNL)**: [Engineering Intern](https://jobs.smartrecruiters.com/LLNL/3743990016986011)  
-  Livermore, CA · Summer 2027 · posted 2026-11-20
-- **Pathlabs**: [Software and AI Engineer Intern](https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern)  
-  Missoula, MT · posted 2026-11-20
-- **Lucid Motors**: [Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving](https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007)  
+## Software (52)
+- **Acuity Insurance**: [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217)  
+  Remote in USA; Sheboygan, WI · Summer 2027 · posted 2026-11-21
+- **Gorbel**: [Front-End Web Developer Co-op](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1)  
+  Victor, NY · posted 2026-11-20
+- **Scout Space**: [Embedded Firmware Engineering Intern - Summer 2027](https://scout.space)  
+  Remote - Reston, VA · Summer 2027
+- **Scout Space**: [Computer Vision - AI/ML Engineering Intern - Summer 2027](https://scout.space)  
+  Remote - Reston, VA · Summer 2027
+- **GCI**: [Software Developer Intern](https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf)  
+  Virginia · Summer 2027 · posted 2026-11-20
+- **Southwest Power Pool**: [Operations Developer Intern](https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83)  
+  Little Rock, AR · Summer 2027 · posted 2026-11-20
+- **Ralliant**: [Software Engineering Intern - AI Building](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324)  
+  Beaverton, OR · Summer 2027 · posted 2026-11-20
+- **Ralliant**: [Software Design Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154)  
+  Beaverton, OR · Summer 2027 · posted 2026-11-20
+- **Garmin**: [Software Engineer Intern - Web/Mobile](https://careers.garmin.com/jobs/22650?icims=1&lang=en-us)  
+  Yarmouth, ME · posted 2026-11-20
+- **Great Southern Wood Preserving**: [Engineering Intern - Data Analyst](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1)  
+  Abbeville, AL · Summer 2027 · posted 2026-11-20
+- **ServiceNow**: [Security Software Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000162827365)  
+  Kirkland, WA · Summer 2027, Fall 2027 · posted 2026-11-20
+- **TCOM**: [Software Engineer Intern](https://recruiting.ultipro.com/TCO1001TCOM/JobBoard/74e57e92-4355-44d7-8471-3c6eecfda9ef/OpportunityDetail?opportunityId=e8df2c4d-5bfd-4b2c-9dc2-d1f4713497f5)  
+  Sioux Falls, SD · posted 2026-11-20
+- **VT Industries**: [Software Development Intern](https://vtindustries.rec.pro.ukg.net/VTI1500VTIN/JobBoard/674339ab-9285-4ba2-80bd-aa3503cae1b2/OpportunityDetail?opportunityId=c6ed6034-a946-447b-bc0f-46cf40fe4367)  
+  Holstein, IA · posted 2026-11-20
+- **Applied Research Associates**: [Software Engineer Intern](https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=0e5ea52f-9c4b-45f8-9a60-86678d8e3fd8)  
+  Baton Rouge, LA · posted 2026-11-20
+- **Mesirow**: [Software Developer Intern - IT](https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214)  
+  Chicago, IL · Summer 2027 · posted 2026-11-20
+- +37 more in `data/new_today.csv`
+
+## Data (57)
+- **Genentech**: [2027 Summer Intern - AI for Drug Discovery - AIDD](https://www.gene.com/)  
+  New York City, NY
+- **Biohub**: [AI Research Scientist Intern](https://job-boards.greenhouse.io/biohub/jobs/8400682)  
+  Redwood City, CA; NYC · Summer 2027 · posted 2026-11-20
+- **OpusClip**: [AI Research Intern](https://opus.pro/)  
+  Remote - Mountain View, CA
+- **Kohn Pedersen Fox**: [Environmental Performance Intern - Computation & AI Development Focus](https://www.kpf.com/)  
+  New York City, NY
+- **MongoDB**: [2027 - AI and People Transformation Intern - NYC](https://www.mongodb.com)  
+  New York City, NY
+- **Acuity Insurance**: [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7)  
+  Sheboygan, WI · Summer 2027 · posted 2026-11-21
+- **Koch Industries**: [Data and Analytics Intern](https://koch.avature.net/en_US/careers/JobDetail/198151)  
+  Lisle, IL · Summer 2027 · posted 2026-11-21
+- **Vatic Outsourcing**: [Business Intelligence Analyst Intern](https://vaticoutsourcing.bamboohr.com/careers/152/)  
+  Marietta, GA · posted 2026-11-21
+- **GCI**: [Targeting Intelligence Analyst Intern - Paid](https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=fc18a34f-19de-457e-910a-adb510ce2ec7)  
+  Virginia · Summer 2027 · posted 2026-11-20
+- **Constellation Energy**: [Powerfolio Data Analyst Intern](https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us)  
+  Houston, TX · Summer 2027 · posted 2026-11-20
+- **Lucid Motors**: [AI/ML Intern - Vehicle Infotainment - Summer 2027](https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007)  
   Newark, CA · Summer 2027 · posted 2026-11-20
-- **Lucid Motors**: [Infotainment Software Intern](https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007)  
-  Newark, CA · Summer 2027, Fall 2027 · posted 2026-11-20
-- **Melaleuca**: [Software Development Intern](https://recruiting2.ultipro.com/MEL1001MEL/JobBoard/d5ffce96-7247-41c4-831b-454b3454c233/OpportunityDetail?opportunityId=da1623df-5176-4008-9b62-c1c59dda63bf)  
-  Idaho Falls, ID · Summer 2027 · posted 2026-11-20
-- **CAS**: [Technology Intern - Software Engineering](https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=f9b67716-a1c1-489e-8c95-ed52ab2ca846)  
-  Columbus, OH · Summer 2027 · posted 2026-11-20
-- **Centralized Supply Chain Services**: [Engineering Intern](https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=37bcf213-e2be-4f42-9935-303281746ec0)  
-  Lenexa, KS · posted 2026-11-20
-- **iA**: [Software Data Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1)  
-  Indianapolis, IN · Summer 2027 · posted 2026-11-20
-- **Marias Technology**: [Software Developer Intern](https://mariastechnology.bamboohr.com/careers/27/)  
-  Covington, OH · posted 2026-11-20
+- **Jewelers Mutual Group**: [Data Science Intern](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895)  
+  Neenah, WI · Summer 2027 · posted 2026-11-20
+- **Jewelers Mutual Group**: [Behavioral Analytics Intern](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=ee5ca626-0eea-4cb4-95ce-735ab0ebca6e)  
+  Raleigh, NC · Summer 2027 · posted 2026-11-20
+- **Jewelers Mutual Group**: [Business Intelligence Intern](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f)  
+  Neenah, WI · Summer 2027 · posted 2026-11-20
+- **Avista**: [Fleet Operations Data Intern - Multiple Teams](https://recruiting2.ultipro.com/avi1000amast/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=99b68bca-853c-4512-a758-80fa46bf30b5)  
+  Spokane, WA · posted 2026-11-20
 - +42 more in `data/new_today.csv`
-
-## Data (59)
-- **Wurl**: [Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4731130006)  
-  Remote in USA · posted 2026-11-20
-- **Barry's**: [Undergraduate Summer Scholar Intern - Data Analyst](https://ats.rippling.com/barrys-careers/jobs/1205224b-cfd0-4b9e-afc1-fc041da94c7f)  
-  NYC · Summer 2027 · posted 2026-11-19
-- **iCapital Network**: [Data Solutions Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002)  
-  NYC · Summer 2027 · posted 2026-11-18
-- **GlobalFoundries**: [AI/ML Analytics Intern, Digital Manufacturing](https://go.vansh.nyc/1EA?s=y)  
-  New York, NY Malta, NY · Summer 2027
-- **Constellation Brands**: [Data Science Intern](https://go.vansh.nyc/1DX?s=y)  
-  Rochester, NY · Summer 2027
-- **Bristol Myers Squibb**: [Data Science Intern - Undergrad-Summer 2027](https://www.bms.com)  
-  Remote - USA · Summer 2027
-- **Mira Safety**: [AI Content Creator Intern - Remote/Hybrid](http://www.mirasafety.com/)  
-  Cedar Park, TX
-- **LinkedIn**: [AI/ML Engineer Intern - Generative AI](https://jobs.smartrecruiters.com/LinkedIn3/744000162623639)  
-  Mountain View, CA · Summer 2027 · posted 2026-11-20
-- **LinkedIn**: [AI/ML Engineer Intern](https://jobs.smartrecruiters.com/LinkedIn3/744000162628808)  
-  Mountain View, CA · Summer 2027 · posted 2026-11-20
-- **LinkedIn**: [Artificial Intelligence/Machine Learning Engineer Intern - Search and Recommender Systems](https://jobs.smartrecruiters.com/LinkedIn3/744000162623368)  
-  Mountain View, CA · Summer 2027 · posted 2026-11-20
-- **Southern Mississippi Trading**: [AI and Business Analytics Intern](https://southernmississippitradingllc.applytojob.com/apply/jIkpJ1ZhDo/AI-Business-Analytics-Intern)  
-  Waynesboro, MS · posted 2026-11-20
-- **Scheels**: [Data Analyst Intern](https://recruiting2.ultipro.com/sch1015sals/JobBoard/c9383a65-0ac1-43cb-93e6-1b4baa2974be/OpportunityDetail?opportunityId=0d48376c-2cb6-416b-afa7-bcb5a0d04c24)  
-  Fargo, ND · posted 2026-11-20
-- **Park National Bank**: [Data Engineering/Data Science Intern](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1)  
-  Newark, OH · posted 2026-11-20
-- **Park National Bank**: [Business Intelligence Intern](https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=c0ff78ff-35ff-41dc-ac4e-e5915f9735a4)  
-  Newark, OH · posted 2026-11-20
-- **Centralized Supply Chain Services**: [Data Quality Intern](https://recruiting2.ultipro.com/INF1006CSCSV/JobBoard/cfbf4143-cfd9-45da-b8f8-e9d4ef4379a5/OpportunityDetail?opportunityId=a2ce0cf6-5514-4817-976f-974dcc0ca215)  
-  Lenexa, KS · posted 2026-11-20
-- +44 more in `data/new_today.csv`
